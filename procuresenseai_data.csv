@@ -1,0 +1,1001 @@
+id_commande,fournisseur,catégorie_achat,date_commande,date_livraison,montant (€),retard (jours),satisfaction (1-5),statut
+1000,ClinLab Services,Équipements médicaux,2025-06-10,2025-06-11,8671.67,0,2.7,Reçu
+1001,PharmaCore,Consulting,2025-05-14,2025-05-14,1573.48,0,1.6,Annulé
+1002,BioMedica,Logistique,2025-02-10,2025-02-15,19253.92,0,1.4,Reçu
+1003,Sanitech,Logistique,2025-03-29,2025-04-04,7446.93,1,2.4,Reçu
+1004,Sanitech,Services externes,2025-03-20,2025-03-25,7094.06,0,1.1,Reçu
+1005,Sanitech,Formation,2025-02-14,2025-02-18,1151.66,0,2.0,Reçu
+1006,Sanitech,Services externes,2025-04-05,2025-04-05,9725.02,0,2.5,En cours
+1007,VitalLab,Matériel labo,2025-05-22,2025-05-22,19570.12,0,2.7,Reçu
+1008,BioLogix,Logistique,2025-04-04,2025-04-07,10218.52,0,4.3,Reçu
+1009,HealthTech Group,Équipements médicaux,2025-05-30,2025-06-12,6848.49,8,3.1,Reçu
+1010,HealthTech Group,Formation,2025-04-22,2025-04-20,7624.9,0,3.7,Reçu
+1011,Sanitech,Consulting,2025-04-07,2025-04-14,16535.84,2,3.1,Reçu
+1012,Sanitech,Logistique,2025-03-15,2025-03-25,14408.86,5,4.6,Reçu
+1013,BioLogix,Informatique,2025-04-05,2025-04-07,1449.88,0,4.4,Reçu
+1014,PharmOne Europe,Entretien,2025-03-12,2025-03-22,8513.0,5,1.7,Reçu
+1015,GlobalMeds,Sécurité,2025-02-10,2025-02-11,17830.21,0,2.9,En cours
+1016,HealthTech Group,Équipements médicaux,2025-03-10,2025-03-22,6156.04,7,3.6,Annulé
+1017,BioMedica,Matériel labo,2025-02-22,2025-02-26,17183.27,0,3.0,Reçu
+1018,PharmOne Europe,Médicaments,2025-01-27,2025-02-03,9352.23,2,2.9,Reçu
+1019,MedSupply SAS,Médicaments,2025-01-13,2025-01-19,4784.38,1,3.7,Reçu
+1020,MedSupply SAS,Médicaments,2025-02-09,2025-02-14,11853.08,0,1.3,Reçu
+1021,HealthTech Group,Logistique,2025-03-18,2025-03-24,13569.47,1,3.6,Reçu
+1022,PharmaCore,Consulting,2025-05-28,2025-06-02,15036.95,0,4.4,Reçu
+1023,ClinLab Services,Services externes,2025-05-14,2025-05-16,808.57,0,2.2,Reçu
+1024,HealthTech Group,Entretien,2025-01-03,2025-01-01,14342.33,0,1.5,Reçu
+1025,PharmOne Europe,Informatique,2025-05-07,2025-05-10,5378.63,0,2.0,En cours
+1026,BioMedica,Sécurité,2025-05-23,2025-05-26,13858.7,0,2.3,Reçu
+1027,ClinLab Services,Médicaments,2025-02-11,2025-02-23,18357.16,7,1.1,Reçu
+1028,GlobalMeds,Médicaments,2025-02-12,2025-02-19,10657.17,2,2.7,En cours
+1029,MedSupply SAS,Consulting,2025-06-07,2025-06-22,1772.32,10,4.8,Reçu
+1030,GlobalMeds,Équipements médicaux,2025-05-24,2025-06-01,3640.42,3,4.7,Reçu
+1031,PharmaCore,Matériel labo,2025-04-14,2025-04-16,13745.42,0,3.2,Annulé
+1032,BioMedica,Matériel labo,2025-05-21,2025-05-25,7315.12,0,4.3,Reçu
+1033,BioLogix,Consulting,2025-06-13,2025-06-11,19614.62,0,1.3,En cours
+1034,MedSupply SAS,Services externes,2025-01-10,2025-01-12,7301.36,0,3.9,Reçu
+1035,GlobalMeds,Matériel labo,2025-01-01,2025-01-10,19615.85,4,3.2,Reçu
+1036,HealthTech Group,Entretien,2025-03-26,2025-04-06,9981.02,6,1.1,Reçu
+1037,BioMedica,Équipements médicaux,2025-03-02,2025-03-14,4046.76,7,4.6,En cours
+1038,PharmaCore,Entretien,2025-06-11,2025-06-15,11897.02,0,4.5,Reçu
+1039,ClinLab Services,Sécurité,2025-01-14,2025-01-14,12360.79,0,3.0,Reçu
+1040,BioLogix,Services externes,2025-05-08,2025-05-18,8712.81,5,2.1,Reçu
+1041,PharmaCore,Formation,2025-05-26,2025-05-28,10091.69,0,1.0,Reçu
+1042,VitalLab,Consulting,2025-06-20,2025-06-28,16710.96,3,4.2,Reçu
+1043,PharmaCore,Logistique,2025-03-27,2025-04-04,12200.2,3,4.0,Reçu
+1044,PharmaCore,Matériel labo,2025-03-30,2025-03-29,16786.28,0,2.4,En cours
+1045,MedSupply SAS,Services externes,2025-02-26,2025-02-24,3605.24,0,3.5,Reçu
+1046,MedSupply SAS,Sécurité,2025-03-26,2025-04-04,3765.57,4,2.8,Reçu
+1047,ClinLab Services,Médicaments,2025-01-01,2025-01-02,16449.94,0,3.3,Reçu
+1048,BioLogix,Services externes,2025-03-28,2025-04-08,7139.73,6,3.4,En cours
+1049,PharmOne Europe,Consulting,2025-06-05,2025-06-17,18990.17,7,4.7,En cours
+1050,MedSupply SAS,Logistique,2025-03-21,2025-03-23,14472.7,0,3.4,En cours
+1051,BioLogix,Entretien,2025-06-13,2025-06-26,11825.38,8,2.3,Reçu
+1052,HealthTech Group,Équipements médicaux,2025-04-15,2025-04-30,16180.9,10,2.7,Reçu
+1053,GlobalMeds,Consulting,2025-02-09,2025-02-18,878.4,4,4.9,Reçu
+1054,ClinLab Services,Services externes,2025-06-30,2025-07-04,4467.0,0,3.3,En cours
+1055,Sanitech,Informatique,2025-03-20,2025-03-21,4109.84,0,3.6,Reçu
+1056,VitalLab,Entretien,2025-01-11,2025-01-11,3650.78,0,2.4,Reçu
+1057,BioMedica,Équipements médicaux,2025-06-08,2025-06-16,19585.84,3,2.1,Reçu
+1058,Sanitech,Informatique,2025-03-09,2025-03-12,15275.68,0,4.2,Reçu
+1059,PharmOne Europe,Équipements médicaux,2025-01-03,2025-01-01,18705.26,0,4.7,Reçu
+1060,HealthTech Group,Équipements médicaux,2025-02-11,2025-02-22,4398.0,6,3.3,Reçu
+1061,PharmaCore,Matériel labo,2025-01-19,2025-01-28,13291.54,4,2.8,Reçu
+1062,BioMedica,Matériel labo,2025-02-09,2025-02-16,14848.45,2,2.7,Reçu
+1063,PharmaCore,Entretien,2025-02-09,2025-02-07,12253.62,0,1.7,Reçu
+1064,MedSupply SAS,Consulting,2025-06-01,2025-06-16,15428.81,10,1.6,Reçu
+1065,BioMedica,Médicaments,2025-02-19,2025-02-27,13265.34,3,4.4,Reçu
+1066,GlobalMeds,Entretien,2025-01-01,2025-01-01,1827.4,0,4.1,En cours
+1067,PharmaCore,Matériel labo,2025-01-10,2025-01-20,823.75,5,3.0,Reçu
+1068,HealthTech Group,Médicaments,2025-05-24,2025-06-04,16607.76,6,4.2,Reçu
+1069,GlobalMeds,Équipements médicaux,2025-04-13,2025-04-19,16471.77,1,3.8,Annulé
+1070,ClinLab Services,Formation,2025-01-28,2025-02-06,12019.77,4,3.6,Reçu
+1071,MedSupply SAS,Médicaments,2025-05-22,2025-05-27,6317.03,0,4.9,Reçu
+1072,MedSupply SAS,Formation,2025-06-03,2025-06-03,16622.17,0,4.5,Reçu
+1073,PharmaCore,Médicaments,2025-01-09,2025-01-23,15598.82,9,3.9,Annulé
+1074,MedSupply SAS,Équipements médicaux,2025-05-02,2025-05-05,18395.76,0,4.8,En cours
+1075,PharmOne Europe,Formation,2025-04-29,2025-05-02,14310.19,0,3.7,Reçu
+1076,Sanitech,Sécurité,2025-05-27,2025-06-06,19868.33,5,2.5,Reçu
+1077,PharmaCore,Équipements médicaux,2025-05-26,2025-06-04,3264.99,4,3.0,Reçu
+1078,PharmaCore,Consulting,2025-06-19,2025-06-20,6820.25,0,2.3,Reçu
+1079,PharmOne Europe,Services externes,2025-01-03,2025-01-17,8359.79,9,2.4,En cours
+1080,BioLogix,Formation,2025-06-22,2025-07-02,16280.73,5,1.5,Reçu
+1081,MedSupply SAS,Services externes,2025-03-28,2025-04-07,16524.12,5,1.9,En cours
+1082,MedSupply SAS,Formation,2025-06-10,2025-06-22,18818.46,7,3.4,Reçu
+1083,PharmOne Europe,Équipements médicaux,2025-06-10,2025-06-25,14068.08,10,2.8,Reçu
+1084,Sanitech,Entretien,2025-01-29,2025-02-02,11365.43,0,2.7,Annulé
+1085,BioLogix,Médicaments,2025-04-08,2025-04-14,19356.68,1,2.6,Reçu
+1086,VitalLab,Informatique,2025-03-03,2025-03-05,15007.3,0,1.4,En cours
+1087,GlobalMeds,Médicaments,2025-02-09,2025-02-10,14610.59,0,2.2,Reçu
+1088,BioMedica,Entretien,2025-05-18,2025-06-01,14022.72,9,1.6,Reçu
+1089,ClinLab Services,Entretien,2025-01-13,2025-01-28,15314.23,10,4.4,Reçu
+1090,HealthTech Group,Entretien,2025-02-11,2025-02-19,17148.46,3,3.8,Reçu
+1091,HealthTech Group,Informatique,2025-03-03,2025-03-07,1511.2,0,3.9,En cours
+1092,BioLogix,Informatique,2025-06-18,2025-06-24,2296.34,1,4.3,Annulé
+1093,MedSupply SAS,Consulting,2025-04-19,2025-05-03,6647.38,9,4.9,Reçu
+1094,HealthTech Group,Équipements médicaux,2025-02-15,2025-02-21,15330.96,1,2.4,Reçu
+1095,VitalLab,Services externes,2025-04-06,2025-04-16,19790.5,5,2.4,Reçu
+1096,Sanitech,Médicaments,2025-05-14,2025-05-14,5461.85,0,1.5,Reçu
+1097,VitalLab,Entretien,2025-06-24,2025-06-26,16436.75,0,2.7,Reçu
+1098,PharmaCore,Services externes,2025-01-26,2025-02-07,18691.43,7,2.6,Reçu
+1099,Sanitech,Informatique,2025-03-17,2025-03-23,11979.57,1,1.0,Reçu
+1100,HealthTech Group,Formation,2025-02-14,2025-02-12,1950.83,0,3.3,Reçu
+1101,BioLogix,Services externes,2025-05-06,2025-05-19,15458.79,8,3.3,En cours
+1102,PharmOne Europe,Médicaments,2025-05-14,2025-05-16,12298.36,0,4.2,En cours
+1103,HealthTech Group,Matériel labo,2025-03-27,2025-04-03,16314.21,2,2.0,Annulé
+1104,VitalLab,Consulting,2025-06-10,2025-06-18,17635.66,3,2.3,Reçu
+1105,PharmaCore,Services externes,2025-04-17,2025-04-20,16551.08,0,1.6,Reçu
+1106,BioLogix,Entretien,2025-06-13,2025-06-13,17726.95,0,4.4,Reçu
+1107,VitalLab,Matériel labo,2025-02-24,2025-02-24,11966.08,0,3.9,Reçu
+1108,BioLogix,Équipements médicaux,2025-04-26,2025-04-29,9314.71,0,1.4,En cours
+1109,Sanitech,Consulting,2025-04-20,2025-04-19,14544.05,0,1.2,Reçu
+1110,BioMedica,Sécurité,2025-06-15,2025-06-16,14581.87,0,1.9,Reçu
+1111,PharmOne Europe,Informatique,2025-03-06,2025-03-17,13308.87,6,3.3,Reçu
+1112,PharmaCore,Matériel labo,2025-03-05,2025-03-16,16603.94,6,4.4,Annulé
+1113,MedSupply SAS,Entretien,2025-06-16,2025-06-27,13874.82,6,4.4,Reçu
+1114,ClinLab Services,Entretien,2025-05-03,2025-05-08,7202.38,0,2.0,Reçu
+1115,BioMedica,Logistique,2025-04-23,2025-04-26,15780.18,0,3.9,Reçu
+1116,PharmaCore,Médicaments,2025-01-02,2025-01-09,4522.3,2,4.0,Reçu
+1117,BioMedica,Informatique,2025-06-09,2025-06-19,13437.7,5,4.2,En cours
+1118,HealthTech Group,Services externes,2025-05-13,2025-05-14,8736.38,0,1.2,Reçu
+1119,ClinLab Services,Logistique,2025-03-18,2025-03-27,5736.22,4,3.6,Reçu
+1120,PharmOne Europe,Équipements médicaux,2025-03-14,2025-03-22,8383.31,3,2.8,Reçu
+1121,HealthTech Group,Entretien,2025-01-20,2025-01-18,18080.87,0,1.9,Reçu
+1122,PharmaCore,Matériel labo,2025-02-07,2025-02-20,9644.48,8,4.9,En cours
+1123,HealthTech Group,Médicaments,2025-03-27,2025-04-02,11364.51,1,2.4,Reçu
+1124,PharmaCore,Entretien,2025-01-02,2025-01-12,13392.46,5,2.4,En cours
+1125,BioMedica,Équipements médicaux,2025-02-18,2025-02-24,15071.35,1,1.1,Annulé
+1126,GlobalMeds,Sécurité,2025-04-02,2025-04-12,3753.26,5,2.3,Annulé
+1127,BioMedica,Équipements médicaux,2025-02-07,2025-02-08,4610.93,0,3.2,Reçu
+1128,Sanitech,Matériel labo,2025-06-02,2025-06-07,8048.69,0,2.0,Reçu
+1129,HealthTech Group,Formation,2025-04-16,2025-04-21,7769.14,0,1.7,Reçu
+1130,BioLogix,Médicaments,2025-03-04,2025-03-10,14178.11,1,2.7,Annulé
+1131,ClinLab Services,Entretien,2025-04-09,2025-04-12,17835.82,0,4.1,En cours
+1132,HealthTech Group,Équipements médicaux,2025-02-24,2025-03-09,761.3,8,2.0,Reçu
+1133,PharmOne Europe,Sécurité,2025-01-30,2025-02-10,3177.34,6,1.2,Reçu
+1134,PharmaCore,Consulting,2025-06-19,2025-06-19,8381.17,0,4.7,Reçu
+1135,PharmOne Europe,Formation,2025-04-15,2025-04-14,1438.15,0,1.7,Reçu
+1136,HealthTech Group,Informatique,2025-06-21,2025-07-04,5475.35,8,2.2,Reçu
+1137,HealthTech Group,Entretien,2025-05-03,2025-05-17,11808.54,9,2.5,En cours
+1138,PharmOne Europe,Sécurité,2025-05-01,2025-05-12,5885.64,6,3.4,Reçu
+1139,BioLogix,Équipements médicaux,2025-01-27,2025-01-29,15174.97,0,2.2,Reçu
+1140,BioMedica,Équipements médicaux,2025-03-17,2025-03-22,15690.51,0,4.4,Annulé
+1141,HealthTech Group,Formation,2025-04-02,2025-04-05,12415.23,0,4.3,Annulé
+1142,HealthTech Group,Consulting,2025-02-16,2025-02-28,2657.51,7,2.4,En cours
+1143,PharmOne Europe,Médicaments,2025-01-18,2025-01-18,13275.58,0,3.3,Reçu
+1144,VitalLab,Entretien,2025-06-09,2025-06-08,9469.84,0,4.6,Reçu
+1145,PharmOne Europe,Sécurité,2025-02-15,2025-03-01,13306.19,9,2.3,Reçu
+1146,ClinLab Services,Médicaments,2025-06-22,2025-07-07,531.02,10,3.6,Reçu
+1147,BioMedica,Équipements médicaux,2025-04-20,2025-04-30,18548.22,5,3.8,Reçu
+1148,MedSupply SAS,Formation,2025-05-24,2025-06-01,11504.39,3,1.6,Reçu
+1149,Sanitech,Consulting,2025-06-03,2025-06-14,8672.07,6,3.1,Reçu
+1150,BioLogix,Logistique,2025-05-16,2025-05-17,18410.47,0,3.1,Reçu
+1151,BioMedica,Formation,2025-01-26,2025-01-30,7118.39,0,1.1,En cours
+1152,VitalLab,Matériel labo,2025-04-05,2025-04-09,18202.45,0,2.1,Reçu
+1153,HealthTech Group,Entretien,2025-03-26,2025-04-10,8897.62,10,2.8,Reçu
+1154,GlobalMeds,Équipements médicaux,2025-06-03,2025-06-03,5641.1,0,4.6,Reçu
+1155,Sanitech,Logistique,2025-05-12,2025-05-22,16854.62,5,1.4,Reçu
+1156,GlobalMeds,Consulting,2025-02-10,2025-02-24,7526.25,9,4.1,En cours
+1157,GlobalMeds,Entretien,2025-06-27,2025-07-03,17367.3,1,1.6,Reçu
+1158,ClinLab Services,Équipements médicaux,2025-06-24,2025-07-01,13647.16,2,1.5,Reçu
+1159,Sanitech,Sécurité,2025-03-04,2025-03-09,2009.78,0,2.1,Reçu
+1160,HealthTech Group,Services externes,2025-06-12,2025-06-19,9653.77,2,4.0,Reçu
+1161,MedSupply SAS,Entretien,2025-04-04,2025-04-02,18379.78,0,4.2,Reçu
+1162,ClinLab Services,Médicaments,2025-05-14,2025-05-20,12206.4,1,4.7,Reçu
+1163,PharmOne Europe,Médicaments,2025-02-08,2025-02-18,13661.57,5,2.6,Reçu
+1164,GlobalMeds,Informatique,2025-01-16,2025-01-20,534.35,0,4.6,En cours
+1165,Sanitech,Logistique,2025-04-19,2025-04-19,8768.34,0,3.5,Reçu
+1166,BioLogix,Services externes,2025-04-27,2025-04-30,14894.34,0,1.2,Reçu
+1167,PharmaCore,Consulting,2025-04-04,2025-04-12,2770.68,3,1.6,Reçu
+1168,VitalLab,Médicaments,2025-05-06,2025-05-05,8860.56,0,3.1,Annulé
+1169,VitalLab,Médicaments,2025-01-03,2025-01-16,1954.17,8,1.3,Reçu
+1170,PharmOne Europe,Informatique,2025-01-21,2025-01-29,1454.94,3,2.6,Reçu
+1171,PharmaCore,Entretien,2025-06-06,2025-06-08,9191.79,0,4.6,Reçu
+1172,VitalLab,Services externes,2025-05-16,2025-05-23,17545.9,2,2.0,Reçu
+1173,PharmaCore,Équipements médicaux,2025-05-20,2025-05-30,12624.87,5,2.4,Reçu
+1174,ClinLab Services,Médicaments,2025-05-28,2025-06-10,2190.49,8,4.3,Annulé
+1175,BioMedica,Services externes,2025-03-01,2025-03-04,2603.66,0,4.0,Annulé
+1176,PharmaCore,Services externes,2025-06-08,2025-06-21,8522.61,8,2.0,Reçu
+1177,BioLogix,Consulting,2025-02-01,2025-01-30,16556.93,0,3.4,Reçu
+1178,BioLogix,Formation,2025-06-07,2025-06-11,17567.97,0,4.8,Reçu
+1179,BioMedica,Équipements médicaux,2025-01-21,2025-01-31,2790.02,5,2.5,Reçu
+1180,MedSupply SAS,Formation,2025-03-04,2025-03-06,15798.7,0,1.3,Reçu
+1181,Sanitech,Équipements médicaux,2025-03-26,2025-04-09,17048.3,9,1.0,Reçu
+1182,BioMedica,Formation,2025-03-20,2025-04-03,16864.04,9,1.3,Reçu
+1183,GlobalMeds,Informatique,2025-01-03,2025-01-03,15038.04,0,3.9,Reçu
+1184,BioMedica,Consulting,2025-06-30,2025-07-07,12727.23,2,2.9,Reçu
+1185,MedSupply SAS,Consulting,2025-02-07,2025-02-20,12042.74,8,1.5,Reçu
+1186,GlobalMeds,Médicaments,2025-06-04,2025-06-08,18643.22,0,2.2,Reçu
+1187,HealthTech Group,Informatique,2025-01-27,2025-02-06,13314.54,5,1.7,Reçu
+1188,BioMedica,Sécurité,2025-01-08,2025-01-11,10782.28,0,3.4,En cours
+1189,GlobalMeds,Équipements médicaux,2025-04-28,2025-04-28,9102.0,0,4.6,En cours
+1190,HealthTech Group,Services externes,2025-01-13,2025-01-16,4430.51,0,4.4,Reçu
+1191,ClinLab Services,Formation,2025-05-04,2025-05-15,12490.47,6,3.8,Reçu
+1192,PharmaCore,Sécurité,2025-04-11,2025-04-18,2958.3,2,2.2,Reçu
+1193,PharmOne Europe,Consulting,2025-03-12,2025-03-12,19706.66,0,4.0,Reçu
+1194,BioLogix,Formation,2025-04-21,2025-04-21,14768.41,0,4.6,Reçu
+1195,MedSupply SAS,Services externes,2025-04-09,2025-04-20,15025.64,6,2.5,Reçu
+1196,BioLogix,Consulting,2025-04-14,2025-04-21,13214.03,2,2.8,Annulé
+1197,VitalLab,Informatique,2025-02-18,2025-02-16,3992.86,0,4.3,Reçu
+1198,BioMedica,Équipements médicaux,2025-01-04,2025-01-09,19058.19,0,4.1,Reçu
+1199,BioMedica,Entretien,2025-02-26,2025-03-07,1201.96,4,3.9,En cours
+1200,MedSupply SAS,Formation,2025-01-05,2025-01-15,13640.66,5,3.9,Reçu
+1201,ClinLab Services,Sécurité,2025-05-19,2025-05-25,13596.71,1,3.7,Reçu
+1202,MedSupply SAS,Services externes,2025-04-28,2025-05-13,8316.21,10,1.7,Reçu
+1203,Sanitech,Services externes,2025-03-17,2025-03-18,17388.79,0,3.5,En cours
+1204,GlobalMeds,Médicaments,2025-01-26,2025-01-31,3259.54,0,4.1,Reçu
+1205,MedSupply SAS,Sécurité,2025-03-15,2025-03-19,7970.0,0,2.9,En cours
+1206,VitalLab,Sécurité,2025-03-05,2025-03-16,1221.57,6,3.6,Reçu
+1207,PharmOne Europe,Logistique,2025-03-05,2025-03-20,13669.03,10,2.5,Reçu
+1208,BioMedica,Médicaments,2025-06-12,2025-06-15,1163.06,0,2.1,Reçu
+1209,PharmOne Europe,Consulting,2025-05-24,2025-06-01,5551.98,3,1.2,Reçu
+1210,Sanitech,Sécurité,2025-05-14,2025-05-24,6776.67,5,4.8,Reçu
+1211,PharmOne Europe,Consulting,2025-01-29,2025-02-02,16790.64,0,4.3,Reçu
+1212,HealthTech Group,Formation,2025-02-20,2025-02-24,13493.68,0,3.3,Reçu
+1213,BioMedica,Consulting,2025-04-22,2025-05-01,11290.7,4,3.5,Reçu
+1214,GlobalMeds,Matériel labo,2025-06-03,2025-06-10,14986.0,2,5.0,Reçu
+1215,BioLogix,Logistique,2025-02-25,2025-03-09,15550.25,7,2.4,Reçu
+1216,VitalLab,Logistique,2025-06-07,2025-06-16,12011.32,4,1.1,Reçu
+1217,PharmOne Europe,Entretien,2025-03-20,2025-03-25,11006.03,0,4.5,Reçu
+1218,BioLogix,Formation,2025-04-08,2025-04-21,7341.47,8,2.9,Reçu
+1219,PharmOne Europe,Services externes,2025-02-17,2025-03-03,4917.39,9,1.5,Reçu
+1220,BioMedica,Médicaments,2025-06-24,2025-06-28,1947.57,0,3.8,Reçu
+1221,BioLogix,Médicaments,2025-03-15,2025-03-13,3946.2,0,1.0,Reçu
+1222,Sanitech,Matériel labo,2025-05-14,2025-05-18,4917.51,0,3.2,Annulé
+1223,Sanitech,Matériel labo,2025-02-06,2025-02-13,16524.48,2,3.0,Reçu
+1224,ClinLab Services,Logistique,2025-06-02,2025-06-06,7030.13,0,3.0,Annulé
+1225,GlobalMeds,Médicaments,2025-06-09,2025-06-08,14137.7,0,4.2,Reçu
+1226,VitalLab,Sécurité,2025-05-12,2025-05-15,13783.69,0,3.9,Reçu
+1227,BioLogix,Consulting,2025-01-22,2025-02-06,13851.26,10,4.3,En cours
+1228,MedSupply SAS,Équipements médicaux,2025-05-17,2025-05-25,18596.04,3,2.9,Annulé
+1229,Sanitech,Logistique,2025-05-20,2025-05-22,7781.86,0,3.8,Reçu
+1230,PharmaCore,Formation,2025-06-08,2025-06-07,3137.98,0,1.0,Reçu
+1231,BioLogix,Consulting,2025-03-15,2025-03-18,10094.07,0,3.3,En cours
+1232,PharmOne Europe,Sécurité,2025-04-15,2025-04-18,8302.47,0,1.3,Reçu
+1233,PharmaCore,Consulting,2025-03-21,2025-03-28,2653.6,2,3.5,Reçu
+1234,ClinLab Services,Matériel labo,2025-02-17,2025-03-04,9773.85,10,3.2,En cours
+1235,VitalLab,Logistique,2025-02-14,2025-02-15,9109.96,0,2.5,Reçu
+1236,MedSupply SAS,Services externes,2025-05-04,2025-05-18,3507.89,9,4.3,Reçu
+1237,PharmOne Europe,Consulting,2025-06-11,2025-06-14,19047.63,0,4.5,En cours
+1238,MedSupply SAS,Logistique,2025-03-10,2025-03-20,18275.38,5,1.9,Reçu
+1239,Sanitech,Logistique,2025-02-14,2025-02-14,18299.63,0,2.1,Reçu
+1240,HealthTech Group,Entretien,2025-03-04,2025-03-13,828.99,4,2.4,En cours
+1241,HealthTech Group,Médicaments,2025-02-16,2025-02-20,5217.89,0,2.4,Reçu
+1242,ClinLab Services,Médicaments,2025-02-02,2025-02-11,11500.0,4,4.8,Reçu
+1243,PharmaCore,Informatique,2025-06-14,2025-06-27,3497.0,8,4.8,Annulé
+1244,BioMedica,Formation,2025-04-05,2025-04-15,19679.09,5,2.3,Reçu
+1245,BioMedica,Sécurité,2025-06-11,2025-06-16,7223.13,0,1.3,Reçu
+1246,BioLogix,Services externes,2025-03-29,2025-03-28,3500.89,0,2.4,Reçu
+1247,MedSupply SAS,Formation,2025-03-02,2025-03-16,9093.87,9,3.6,Reçu
+1248,ClinLab Services,Informatique,2025-04-09,2025-04-10,8314.85,0,3.7,Reçu
+1249,PharmOne Europe,Équipements médicaux,2025-06-18,2025-07-02,4335.46,9,5.0,Reçu
+1250,BioMedica,Services externes,2025-03-16,2025-03-29,14125.17,8,2.9,Annulé
+1251,VitalLab,Sécurité,2025-04-25,2025-05-03,2597.31,3,2.4,Reçu
+1252,VitalLab,Informatique,2025-01-20,2025-01-19,12291.38,0,3.9,Reçu
+1253,ClinLab Services,Équipements médicaux,2025-03-12,2025-03-17,9915.7,0,3.8,En cours
+1254,BioLogix,Entretien,2025-02-06,2025-02-07,11019.61,0,2.0,En cours
+1255,GlobalMeds,Logistique,2025-06-06,2025-06-07,14834.86,0,2.7,Reçu
+1256,Sanitech,Sécurité,2025-06-02,2025-06-02,3601.32,0,3.5,En cours
+1257,GlobalMeds,Formation,2025-03-25,2025-04-04,18572.02,5,4.4,Reçu
+1258,VitalLab,Consulting,2025-06-24,2025-06-26,6830.73,0,2.1,Reçu
+1259,PharmaCore,Médicaments,2025-02-09,2025-02-18,2499.98,4,4.7,Reçu
+1260,BioLogix,Informatique,2025-04-30,2025-05-10,17863.51,5,3.6,Reçu
+1261,HealthTech Group,Entretien,2025-03-10,2025-03-09,7779.4,0,1.4,Reçu
+1262,BioMedica,Informatique,2025-02-21,2025-03-06,6025.95,8,4.0,En cours
+1263,HealthTech Group,Sécurité,2025-01-16,2025-01-29,11336.51,8,3.9,En cours
+1264,Sanitech,Sécurité,2025-05-10,2025-05-25,18368.36,10,3.0,En cours
+1265,HealthTech Group,Services externes,2025-01-30,2025-02-11,12353.66,7,1.6,Reçu
+1266,PharmaCore,Entretien,2025-04-27,2025-04-29,8149.05,0,3.2,Reçu
+1267,ClinLab Services,Matériel labo,2025-03-25,2025-04-01,12480.45,2,1.4,Reçu
+1268,MedSupply SAS,Logistique,2025-03-07,2025-03-07,18431.12,0,4.8,Reçu
+1269,ClinLab Services,Sécurité,2025-02-20,2025-02-19,5431.64,0,3.9,Reçu
+1270,Sanitech,Formation,2025-06-21,2025-07-05,15841.72,9,3.1,Reçu
+1271,GlobalMeds,Médicaments,2025-01-26,2025-02-09,16027.36,9,3.9,En cours
+1272,VitalLab,Entretien,2025-02-13,2025-02-23,6556.63,5,4.0,Annulé
+1273,MedSupply SAS,Formation,2025-05-06,2025-05-09,1226.22,0,2.5,Reçu
+1274,MedSupply SAS,Entretien,2025-01-05,2025-01-20,11341.37,10,3.6,Reçu
+1275,BioMedica,Médicaments,2025-03-29,2025-04-13,18895.67,10,1.5,Reçu
+1276,PharmOne Europe,Sécurité,2025-02-01,2025-02-10,16525.23,4,2.3,Reçu
+1277,PharmaCore,Consulting,2025-05-07,2025-05-05,2090.5,0,4.0,Reçu
+1278,PharmOne Europe,Équipements médicaux,2025-01-04,2025-01-16,6771.96,7,4.2,Reçu
+1279,BioMedica,Services externes,2025-03-11,2025-03-21,10087.89,5,4.9,Reçu
+1280,PharmOne Europe,Consulting,2025-06-27,2025-07-03,18293.37,1,3.9,Reçu
+1281,PharmaCore,Entretien,2025-05-27,2025-06-03,5793.04,2,1.9,Annulé
+1282,GlobalMeds,Consulting,2025-01-18,2025-01-26,19462.84,3,1.1,Reçu
+1283,PharmaCore,Équipements médicaux,2025-03-03,2025-03-07,15378.54,0,3.1,Reçu
+1284,PharmOne Europe,Médicaments,2025-06-17,2025-06-20,11860.93,0,3.7,Reçu
+1285,MedSupply SAS,Services externes,2025-02-03,2025-02-03,10658.95,0,2.2,Reçu
+1286,VitalLab,Sécurité,2025-04-23,2025-04-25,18739.43,0,2.8,Reçu
+1287,GlobalMeds,Sécurité,2025-03-06,2025-03-14,9874.81,3,4.6,En cours
+1288,PharmaCore,Médicaments,2025-01-28,2025-02-11,10839.71,9,3.1,Reçu
+1289,PharmOne Europe,Formation,2025-04-28,2025-04-28,16660.9,0,5.0,Reçu
+1290,ClinLab Services,Informatique,2025-05-24,2025-05-27,13523.45,0,4.5,En cours
+1291,BioLogix,Matériel labo,2025-01-31,2025-02-01,18118.85,0,5.0,Reçu
+1292,VitalLab,Sécurité,2025-03-31,2025-04-15,13689.37,10,3.2,En cours
+1293,PharmOne Europe,Sécurité,2025-05-10,2025-05-12,18344.72,0,1.0,En cours
+1294,PharmaCore,Services externes,2025-06-29,2025-07-11,13774.43,7,1.7,Reçu
+1295,MedSupply SAS,Médicaments,2025-06-03,2025-06-13,2190.6,5,4.0,Reçu
+1296,PharmOne Europe,Formation,2025-04-28,2025-05-06,7600.69,3,2.6,Reçu
+1297,BioLogix,Informatique,2025-06-08,2025-06-07,583.02,0,1.7,Reçu
+1298,BioLogix,Médicaments,2025-05-24,2025-05-25,10421.06,0,4.8,En cours
+1299,HealthTech Group,Services externes,2025-06-27,2025-07-05,18063.14,3,5.0,Reçu
+1300,HealthTech Group,Médicaments,2025-06-30,2025-07-05,10251.84,0,4.0,Annulé
+1301,BioLogix,Formation,2025-03-25,2025-03-23,13828.87,0,4.9,Reçu
+1302,MedSupply SAS,Matériel labo,2025-03-06,2025-03-14,5369.5,3,4.2,Reçu
+1303,PharmOne Europe,Formation,2025-04-07,2025-04-16,5686.52,4,1.3,En cours
+1304,BioMedica,Logistique,2025-05-20,2025-05-30,13654.55,5,1.7,En cours
+1305,PharmaCore,Services externes,2025-04-10,2025-04-21,16435.21,6,3.3,Reçu
+1306,VitalLab,Sécurité,2025-03-21,2025-03-20,9664.48,0,1.8,Reçu
+1307,GlobalMeds,Matériel labo,2025-05-05,2025-05-17,10027.04,7,1.1,Reçu
+1308,PharmOne Europe,Logistique,2025-01-09,2025-01-23,4497.54,9,2.6,Reçu
+1309,GlobalMeds,Sécurité,2025-03-14,2025-03-13,7512.89,0,3.2,Reçu
+1310,PharmaCore,Services externes,2025-05-24,2025-06-06,14649.37,8,1.3,En cours
+1311,PharmOne Europe,Sécurité,2025-01-01,2025-01-11,15190.37,5,2.0,Reçu
+1312,PharmaCore,Logistique,2025-03-02,2025-03-17,3714.19,10,4.9,Reçu
+1313,PharmOne Europe,Formation,2025-01-22,2025-02-02,10411.67,6,3.3,Annulé
+1314,PharmaCore,Sécurité,2025-02-05,2025-02-19,8021.29,9,4.1,Reçu
+1315,PharmOne Europe,Matériel labo,2025-06-25,2025-07-02,3426.75,2,2.3,Reçu
+1316,Sanitech,Sécurité,2025-05-11,2025-05-26,12047.63,10,1.7,Reçu
+1317,MedSupply SAS,Services externes,2025-04-23,2025-04-24,2330.13,0,2.8,Reçu
+1318,HealthTech Group,Médicaments,2025-02-14,2025-02-12,18131.18,0,3.1,Reçu
+1319,Sanitech,Médicaments,2025-06-17,2025-06-25,10397.28,3,4.8,Reçu
+1320,PharmaCore,Informatique,2025-06-30,2025-07-07,4295.81,2,4.0,Reçu
+1321,Sanitech,Services externes,2025-06-14,2025-06-28,6078.6,9,1.1,Reçu
+1322,MedSupply SAS,Entretien,2025-04-20,2025-04-27,12904.87,2,1.9,En cours
+1323,HealthTech Group,Informatique,2025-02-23,2025-02-24,13306.35,0,4.2,Annulé
+1324,PharmOne Europe,Services externes,2025-06-02,2025-06-11,2224.71,4,3.9,Reçu
+1325,PharmaCore,Médicaments,2025-03-16,2025-03-19,2306.58,0,2.7,Annulé
+1326,MedSupply SAS,Informatique,2025-02-18,2025-02-27,19386.41,4,2.8,En cours
+1327,PharmOne Europe,Services externes,2025-04-12,2025-04-27,16225.49,10,1.4,Reçu
+1328,GlobalMeds,Sécurité,2025-02-03,2025-02-02,6823.59,0,3.8,Reçu
+1329,BioLogix,Services externes,2025-05-30,2025-06-06,7196.34,2,4.9,En cours
+1330,HealthTech Group,Consulting,2025-03-23,2025-03-25,7982.24,0,3.1,Reçu
+1331,ClinLab Services,Services externes,2025-04-30,2025-05-03,15500.32,0,5.0,En cours
+1332,GlobalMeds,Entretien,2025-02-06,2025-02-10,16292.49,0,1.8,Annulé
+1333,PharmaCore,Logistique,2025-05-21,2025-06-05,13991.3,10,3.7,En cours
+1334,PharmOne Europe,Sécurité,2025-05-23,2025-05-31,19056.8,3,2.2,Reçu
+1335,MedSupply SAS,Équipements médicaux,2025-06-16,2025-06-16,6718.81,0,2.0,Reçu
+1336,PharmaCore,Formation,2025-05-20,2025-05-22,2615.16,0,1.8,Reçu
+1337,BioLogix,Équipements médicaux,2025-02-11,2025-02-12,5936.14,0,3.4,Reçu
+1338,ClinLab Services,Consulting,2025-05-06,2025-05-16,4594.46,5,1.5,Annulé
+1339,GlobalMeds,Logistique,2025-02-08,2025-02-17,13732.06,4,4.3,Reçu
+1340,BioMedica,Entretien,2025-05-03,2025-05-06,13598.52,0,3.9,Reçu
+1341,VitalLab,Sécurité,2025-05-13,2025-05-23,4286.86,5,3.8,Reçu
+1342,BioLogix,Médicaments,2025-06-20,2025-06-22,3914.01,0,4.0,Reçu
+1343,PharmaCore,Logistique,2025-03-28,2025-04-10,1254.02,8,4.3,Reçu
+1344,PharmOne Europe,Formation,2025-06-25,2025-07-10,10671.16,10,3.1,Reçu
+1345,MedSupply SAS,Entretien,2025-02-09,2025-02-11,7893.72,0,4.8,Reçu
+1346,ClinLab Services,Logistique,2025-03-16,2025-03-15,11434.63,0,2.4,Reçu
+1347,PharmaCore,Formation,2025-02-08,2025-02-09,6986.07,0,1.3,Reçu
+1348,BioLogix,Consulting,2025-02-06,2025-02-17,12329.98,6,1.4,En cours
+1349,BioLogix,Médicaments,2025-04-30,2025-05-06,1382.89,1,2.2,Annulé
+1350,GlobalMeds,Sécurité,2025-01-26,2025-01-24,14787.87,0,3.8,Reçu
+1351,ClinLab Services,Logistique,2025-06-25,2025-07-04,6573.65,4,3.6,Reçu
+1352,BioLogix,Équipements médicaux,2025-02-21,2025-02-26,15293.67,0,2.3,Annulé
+1353,PharmOne Europe,Informatique,2025-04-03,2025-04-17,11862.59,9,2.4,Reçu
+1354,GlobalMeds,Sécurité,2025-04-03,2025-04-16,16993.09,8,4.7,Reçu
+1355,HealthTech Group,Informatique,2025-04-03,2025-04-10,11782.65,2,1.1,Reçu
+1356,BioLogix,Entretien,2025-02-08,2025-02-18,697.78,5,1.0,Reçu
+1357,BioMedica,Logistique,2025-02-23,2025-03-05,19944.96,5,3.8,Reçu
+1358,PharmaCore,Médicaments,2025-06-22,2025-07-03,1078.06,6,1.5,Reçu
+1359,GlobalMeds,Matériel labo,2025-04-30,2025-05-03,14302.64,0,2.2,Annulé
+1360,BioLogix,Entretien,2025-01-30,2025-02-12,13607.26,8,2.6,Reçu
+1361,HealthTech Group,Médicaments,2025-04-14,2025-04-14,9330.49,0,2.4,Reçu
+1362,Sanitech,Services externes,2025-06-05,2025-06-13,6891.09,3,1.0,En cours
+1363,HealthTech Group,Services externes,2025-03-31,2025-04-11,12040.43,6,1.2,Reçu
+1364,ClinLab Services,Logistique,2025-02-24,2025-03-07,6839.41,6,3.0,Reçu
+1365,HealthTech Group,Logistique,2025-05-21,2025-05-19,3306.29,0,4.3,En cours
+1366,BioLogix,Entretien,2025-02-07,2025-02-19,8474.43,7,3.3,Reçu
+1367,ClinLab Services,Équipements médicaux,2025-02-10,2025-02-12,7677.32,0,1.7,Reçu
+1368,VitalLab,Logistique,2025-04-01,2025-04-11,3628.23,5,1.1,Reçu
+1369,BioLogix,Matériel labo,2025-01-30,2025-02-09,4796.85,5,3.2,Reçu
+1370,PharmaCore,Formation,2025-02-09,2025-02-22,11266.34,8,4.0,En cours
+1371,GlobalMeds,Médicaments,2025-01-27,2025-02-02,9200.61,1,3.4,Reçu
+1372,HealthTech Group,Matériel labo,2025-06-08,2025-06-20,6460.81,7,3.4,Reçu
+1373,BioMedica,Logistique,2025-02-03,2025-02-03,10386.11,0,4.7,Reçu
+1374,Sanitech,Logistique,2025-06-07,2025-06-09,7355.37,0,1.9,Reçu
+1375,Sanitech,Informatique,2025-05-16,2025-05-21,17301.85,0,1.1,En cours
+1376,BioLogix,Consulting,2025-04-19,2025-05-04,5244.79,10,4.7,Reçu
+1377,BioMedica,Matériel labo,2025-03-13,2025-03-17,4410.47,0,3.7,Reçu
+1378,Sanitech,Formation,2025-06-28,2025-06-26,5141.74,0,2.5,Reçu
+1379,VitalLab,Formation,2025-04-01,2025-03-30,18413.99,0,5.0,Reçu
+1380,PharmaCore,Entretien,2025-04-05,2025-04-07,2962.04,0,3.9,Reçu
+1381,BioMedica,Informatique,2025-04-15,2025-04-16,6430.64,0,3.7,En cours
+1382,ClinLab Services,Matériel labo,2025-04-25,2025-05-06,19564.66,6,4.3,Reçu
+1383,BioLogix,Matériel labo,2025-06-10,2025-06-13,1894.69,0,4.8,Reçu
+1384,BioMedica,Matériel labo,2025-06-24,2025-07-07,10936.98,8,2.6,Reçu
+1385,HealthTech Group,Logistique,2025-03-04,2025-03-17,7005.95,8,2.3,Reçu
+1386,VitalLab,Formation,2025-06-22,2025-06-20,8959.68,0,2.2,En cours
+1387,PharmaCore,Consulting,2025-04-14,2025-04-29,3906.96,10,3.4,Reçu
+1388,PharmaCore,Équipements médicaux,2025-02-27,2025-03-07,10324.15,3,2.8,Reçu
+1389,ClinLab Services,Entretien,2025-05-09,2025-05-20,19898.12,6,4.4,Reçu
+1390,ClinLab Services,Équipements médicaux,2025-02-21,2025-03-07,4131.25,9,2.7,Reçu
+1391,PharmaCore,Informatique,2025-03-15,2025-03-14,18703.03,0,1.1,Reçu
+1392,BioLogix,Matériel labo,2025-02-06,2025-02-08,17959.69,0,4.3,Reçu
+1393,HealthTech Group,Formation,2025-06-24,2025-06-27,14068.1,0,2.4,Reçu
+1394,GlobalMeds,Sécurité,2025-06-11,2025-06-26,17798.05,10,3.7,Reçu
+1395,VitalLab,Équipements médicaux,2025-06-06,2025-06-13,13531.56,2,2.9,Reçu
+1396,BioLogix,Matériel labo,2025-05-10,2025-05-12,6631.28,0,3.6,Reçu
+1397,GlobalMeds,Consulting,2025-01-26,2025-02-04,12146.86,4,4.0,Reçu
+1398,MedSupply SAS,Services externes,2025-06-10,2025-06-21,12906.15,6,2.8,Reçu
+1399,ClinLab Services,Formation,2025-05-10,2025-05-25,10006.26,10,1.8,Reçu
+1400,HealthTech Group,Sécurité,2025-05-11,2025-05-21,6002.83,5,1.5,Reçu
+1401,ClinLab Services,Médicaments,2025-01-13,2025-01-17,7621.66,0,2.2,Reçu
+1402,BioMedica,Informatique,2025-02-22,2025-02-26,8116.44,0,4.9,Reçu
+1403,ClinLab Services,Sécurité,2025-01-31,2025-02-03,6599.69,0,3.7,Reçu
+1404,VitalLab,Médicaments,2025-03-26,2025-03-31,11631.44,0,3.7,Reçu
+1405,PharmOne Europe,Logistique,2025-02-14,2025-03-01,1257.96,10,3.4,Reçu
+1406,VitalLab,Médicaments,2025-05-17,2025-05-17,7012.69,0,4.3,Reçu
+1407,ClinLab Services,Entretien,2025-05-23,2025-06-02,5272.52,5,2.6,Reçu
+1408,VitalLab,Sécurité,2025-05-30,2025-06-01,939.24,0,2.7,En cours
+1409,GlobalMeds,Médicaments,2025-02-01,2025-02-06,4321.49,0,1.8,Reçu
+1410,ClinLab Services,Entretien,2025-02-04,2025-02-13,10576.6,4,4.4,En cours
+1411,MedSupply SAS,Logistique,2025-06-28,2025-07-07,5790.88,4,3.2,En cours
+1412,VitalLab,Logistique,2025-05-25,2025-05-26,4470.48,0,3.7,Reçu
+1413,PharmaCore,Médicaments,2025-05-02,2025-05-17,9939.99,10,3.8,Reçu
+1414,MedSupply SAS,Consulting,2025-02-13,2025-02-11,5465.7,0,4.8,Reçu
+1415,BioLogix,Matériel labo,2025-05-13,2025-05-24,5226.43,6,4.0,Reçu
+1416,PharmaCore,Services externes,2025-02-20,2025-02-27,2000.39,2,4.9,Reçu
+1417,BioLogix,Informatique,2025-06-28,2025-06-27,6525.62,0,3.6,En cours
+1418,VitalLab,Formation,2025-06-01,2025-06-12,4263.95,6,3.8,Reçu
+1419,BioMedica,Matériel labo,2025-05-31,2025-06-06,15886.0,1,1.9,Reçu
+1420,BioLogix,Services externes,2025-06-17,2025-06-15,6917.47,0,1.9,Reçu
+1421,BioLogix,Logistique,2025-02-01,2025-01-31,14738.22,0,3.0,Annulé
+1422,BioLogix,Logistique,2025-03-01,2025-03-14,5955.91,8,4.5,Reçu
+1423,VitalLab,Informatique,2025-05-12,2025-05-10,15919.34,0,3.3,En cours
+1424,BioLogix,Logistique,2025-05-19,2025-05-23,7874.42,0,1.1,Reçu
+1425,PharmOne Europe,Médicaments,2025-02-03,2025-02-16,7396.45,8,4.4,Reçu
+1426,ClinLab Services,Consulting,2025-06-09,2025-06-18,7214.8,4,3.9,Reçu
+1427,PharmaCore,Équipements médicaux,2025-06-21,2025-06-24,14240.25,0,4.6,Reçu
+1428,VitalLab,Logistique,2025-03-21,2025-04-04,9330.52,9,2.3,Reçu
+1429,ClinLab Services,Médicaments,2025-03-23,2025-04-01,18261.51,4,2.8,Reçu
+1430,ClinLab Services,Consulting,2025-03-16,2025-03-16,15690.61,0,3.8,Reçu
+1431,GlobalMeds,Matériel labo,2025-06-21,2025-06-19,12108.06,0,4.0,Reçu
+1432,HealthTech Group,Équipements médicaux,2025-01-23,2025-01-25,14513.62,0,4.8,Reçu
+1433,Sanitech,Informatique,2025-06-07,2025-06-14,11340.86,2,4.3,Reçu
+1434,PharmaCore,Équipements médicaux,2025-04-13,2025-04-18,8342.58,0,2.8,Reçu
+1435,Sanitech,Médicaments,2025-03-31,2025-04-06,2914.29,1,1.4,Reçu
+1436,PharmaCore,Entretien,2025-06-30,2025-07-13,4105.62,8,3.3,Annulé
+1437,PharmaCore,Consulting,2025-06-01,2025-06-09,8699.62,3,2.1,Reçu
+1438,BioLogix,Logistique,2025-04-20,2025-05-02,7458.83,7,3.7,Reçu
+1439,BioLogix,Équipements médicaux,2025-03-20,2025-03-27,4070.26,2,4.9,Reçu
+1440,HealthTech Group,Informatique,2025-02-20,2025-03-05,16796.46,8,2.7,Reçu
+1441,MedSupply SAS,Formation,2025-02-10,2025-02-18,15034.73,3,1.2,Reçu
+1442,BioLogix,Matériel labo,2025-05-22,2025-05-23,7985.25,0,2.4,Reçu
+1443,VitalLab,Matériel labo,2025-06-27,2025-06-30,12786.99,0,3.2,En cours
+1444,PharmOne Europe,Matériel labo,2025-01-01,2025-01-04,1765.8,0,2.5,Reçu
+1445,ClinLab Services,Informatique,2025-01-30,2025-02-08,7068.74,4,3.4,Reçu
+1446,GlobalMeds,Formation,2025-02-15,2025-02-23,1717.02,3,3.7,Reçu
+1447,VitalLab,Entretien,2025-04-03,2025-04-03,2102.85,0,3.7,Reçu
+1448,MedSupply SAS,Logistique,2025-03-04,2025-03-13,16481.36,4,1.5,Reçu
+1449,PharmOne Europe,Formation,2025-04-21,2025-04-22,5738.27,0,2.7,En cours
+1450,BioMedica,Informatique,2025-02-11,2025-02-13,7371.56,0,1.2,En cours
+1451,VitalLab,Médicaments,2025-03-17,2025-03-31,15020.48,9,2.7,Reçu
+1452,PharmOne Europe,Médicaments,2025-03-16,2025-03-23,12209.33,2,1.6,Reçu
+1453,VitalLab,Matériel labo,2025-02-17,2025-03-04,5062.4,10,1.3,Reçu
+1454,HealthTech Group,Sécurité,2025-01-14,2025-01-29,8060.9,10,2.4,Reçu
+1455,VitalLab,Médicaments,2025-06-04,2025-06-09,2462.98,0,3.9,Reçu
+1456,BioLogix,Matériel labo,2025-03-07,2025-03-18,14457.1,6,4.9,Reçu
+1457,Sanitech,Sécurité,2025-01-12,2025-01-19,5217.0,2,3.8,En cours
+1458,HealthTech Group,Logistique,2025-05-22,2025-05-26,18136.15,0,2.2,En cours
+1459,ClinLab Services,Services externes,2025-06-24,2025-06-29,3177.58,0,2.5,En cours
+1460,HealthTech Group,Médicaments,2025-04-05,2025-04-08,3794.79,0,3.1,Reçu
+1461,HealthTech Group,Entretien,2025-04-04,2025-04-14,4560.44,5,1.9,Reçu
+1462,HealthTech Group,Matériel labo,2025-06-27,2025-07-12,10958.08,10,2.2,Reçu
+1463,Sanitech,Entretien,2025-02-09,2025-02-20,6529.98,6,4.2,Reçu
+1464,ClinLab Services,Sécurité,2025-01-22,2025-01-24,5753.48,0,2.1,Reçu
+1465,GlobalMeds,Informatique,2025-01-07,2025-01-18,2000.16,6,3.0,Reçu
+1466,PharmOne Europe,Équipements médicaux,2025-05-23,2025-06-01,15780.9,4,3.8,Reçu
+1467,Sanitech,Équipements médicaux,2025-04-06,2025-04-12,12104.63,1,3.3,Reçu
+1468,ClinLab Services,Entretien,2025-06-28,2025-06-30,12083.57,0,4.0,Reçu
+1469,BioLogix,Formation,2025-03-03,2025-03-08,18135.54,0,1.5,Reçu
+1470,GlobalMeds,Équipements médicaux,2025-01-02,2024-12-31,11768.35,0,4.0,Reçu
+1471,VitalLab,Consulting,2025-03-07,2025-03-13,6290.39,1,1.8,Reçu
+1472,BioMedica,Formation,2025-05-16,2025-05-15,15958.69,0,2.4,Reçu
+1473,Sanitech,Services externes,2025-02-10,2025-02-12,14422.41,0,3.9,Reçu
+1474,PharmaCore,Formation,2025-04-08,2025-04-23,8290.11,10,4.1,Reçu
+1475,PharmaCore,Informatique,2025-05-02,2025-05-11,15143.56,4,1.8,Reçu
+1476,Sanitech,Informatique,2025-06-01,2025-06-13,8611.92,7,1.9,Reçu
+1477,PharmOne Europe,Équipements médicaux,2025-06-08,2025-06-06,2348.39,0,3.1,Reçu
+1478,VitalLab,Services externes,2025-02-24,2025-02-24,14844.84,0,4.3,Reçu
+1479,VitalLab,Entretien,2025-06-16,2025-06-30,7667.28,9,4.7,Annulé
+1480,PharmaCore,Logistique,2025-05-08,2025-05-19,3050.41,6,1.6,Reçu
+1481,Sanitech,Services externes,2025-05-03,2025-05-09,9593.51,1,4.3,Reçu
+1482,Sanitech,Informatique,2025-01-23,2025-02-02,2731.6,5,2.8,Reçu
+1483,ClinLab Services,Services externes,2025-02-01,2025-01-31,5619.45,0,2.6,Annulé
+1484,GlobalMeds,Logistique,2025-05-11,2025-05-19,4695.95,3,1.2,Reçu
+1485,ClinLab Services,Logistique,2025-03-19,2025-03-26,950.57,2,4.5,Reçu
+1486,BioMedica,Informatique,2025-03-28,2025-04-07,12546.12,5,1.9,Reçu
+1487,HealthTech Group,Logistique,2025-04-21,2025-04-26,2791.7,0,4.1,Annulé
+1488,VitalLab,Médicaments,2025-03-11,2025-03-16,15229.48,0,4.8,En cours
+1489,MedSupply SAS,Matériel labo,2025-05-25,2025-05-25,19881.47,0,2.9,Reçu
+1490,Sanitech,Matériel labo,2025-01-14,2025-01-17,9903.54,0,2.0,Reçu
+1491,VitalLab,Médicaments,2025-01-23,2025-01-22,1685.45,0,4.2,Reçu
+1492,BioMedica,Entretien,2025-01-10,2025-01-15,10834.35,0,4.1,Reçu
+1493,GlobalMeds,Informatique,2025-02-16,2025-02-21,6345.74,0,2.4,Reçu
+1494,Sanitech,Formation,2025-02-11,2025-02-14,13615.07,0,1.3,Reçu
+1495,PharmaCore,Formation,2025-01-11,2025-01-21,2638.74,5,1.8,Reçu
+1496,VitalLab,Sécurité,2025-01-15,2025-01-29,1818.03,9,4.6,Annulé
+1497,PharmaCore,Informatique,2025-06-14,2025-06-13,7527.8,0,1.4,Reçu
+1498,PharmOne Europe,Logistique,2025-05-04,2025-05-04,16943.95,0,3.8,Reçu
+1499,VitalLab,Matériel labo,2025-02-12,2025-02-12,15662.39,0,1.3,Annulé
+1500,Sanitech,Équipements médicaux,2025-02-25,2025-02-28,7292.92,0,3.1,Reçu
+1501,ClinLab Services,Médicaments,2025-04-07,2025-04-09,15785.77,0,4.9,Reçu
+1502,ClinLab Services,Consulting,2025-04-02,2025-04-13,4388.01,6,2.5,En cours
+1503,ClinLab Services,Consulting,2025-03-06,2025-03-08,2934.36,0,2.7,Reçu
+1504,VitalLab,Entretien,2025-04-22,2025-04-30,7164.52,3,3.7,En cours
+1505,ClinLab Services,Formation,2025-06-04,2025-06-17,14150.95,8,3.8,Reçu
+1506,BioLogix,Formation,2025-06-10,2025-06-12,4600.59,0,3.1,Reçu
+1507,PharmOne Europe,Informatique,2025-06-16,2025-06-20,4217.29,0,4.5,En cours
+1508,VitalLab,Équipements médicaux,2025-06-25,2025-07-03,12660.65,3,3.5,Annulé
+1509,GlobalMeds,Logistique,2025-02-18,2025-02-26,7604.11,3,2.9,Annulé
+1510,PharmaCore,Services externes,2025-02-12,2025-02-11,1457.23,0,3.7,Reçu
+1511,PharmOne Europe,Entretien,2025-05-02,2025-05-08,1251.3,1,2.5,Reçu
+1512,BioMedica,Sécurité,2025-01-09,2025-01-15,9283.7,1,1.0,Reçu
+1513,VitalLab,Informatique,2025-06-15,2025-06-27,12850.5,7,4.1,Reçu
+1514,ClinLab Services,Sécurité,2025-02-17,2025-02-26,12770.94,4,4.9,Reçu
+1515,MedSupply SAS,Entretien,2025-04-26,2025-04-28,12894.76,0,1.3,Reçu
+1516,BioLogix,Médicaments,2025-04-19,2025-04-22,11845.14,0,3.3,En cours
+1517,VitalLab,Logistique,2025-02-09,2025-02-09,13539.1,0,3.0,Reçu
+1518,PharmOne Europe,Médicaments,2025-03-16,2025-03-18,15343.16,0,3.3,En cours
+1519,ClinLab Services,Médicaments,2025-04-09,2025-04-11,7711.48,0,4.1,Reçu
+1520,Sanitech,Sécurité,2025-03-05,2025-03-10,18761.16,0,3.4,Reçu
+1521,PharmaCore,Médicaments,2025-03-30,2025-03-29,12547.97,0,2.9,Annulé
+1522,BioMedica,Consulting,2025-05-02,2025-05-15,9193.74,8,2.6,Reçu
+1523,BioLogix,Médicaments,2025-02-15,2025-02-13,17032.68,0,5.0,Reçu
+1524,Sanitech,Matériel labo,2025-03-03,2025-03-06,13136.1,0,2.3,En cours
+1525,BioMedica,Médicaments,2025-03-11,2025-03-23,546.66,7,2.7,Reçu
+1526,ClinLab Services,Matériel labo,2025-04-17,2025-04-28,12880.9,6,4.9,Reçu
+1527,BioMedica,Logistique,2025-06-14,2025-06-16,17486.93,0,2.8,Reçu
+1528,BioLogix,Services externes,2025-01-29,2025-01-30,16680.89,0,4.3,En cours
+1529,BioMedica,Formation,2025-02-28,2025-03-08,18708.54,3,2.2,Reçu
+1530,BioMedica,Sécurité,2025-02-03,2025-02-18,13471.95,10,4.5,Reçu
+1531,VitalLab,Services externes,2025-03-18,2025-03-16,17378.96,0,1.2,Reçu
+1532,PharmOne Europe,Sécurité,2025-02-12,2025-02-21,751.93,4,3.4,En cours
+1533,GlobalMeds,Logistique,2025-04-09,2025-04-21,6171.67,7,1.8,Reçu
+1534,BioLogix,Informatique,2025-06-07,2025-06-17,17814.47,5,1.3,Reçu
+1535,ClinLab Services,Consulting,2025-02-01,2025-02-09,7448.51,3,1.2,Annulé
+1536,BioMedica,Consulting,2025-01-02,2025-01-08,12563.79,1,2.7,En cours
+1537,PharmaCore,Entretien,2025-06-05,2025-06-12,19202.34,2,4.0,En cours
+1538,ClinLab Services,Matériel labo,2025-06-14,2025-06-14,6444.78,0,2.4,Reçu
+1539,ClinLab Services,Formation,2025-03-27,2025-04-09,4114.29,8,2.6,Reçu
+1540,PharmaCore,Logistique,2025-02-20,2025-02-25,1122.73,0,2.1,Reçu
+1541,Sanitech,Logistique,2025-06-11,2025-06-24,1754.31,8,4.0,En cours
+1542,PharmaCore,Matériel labo,2025-02-21,2025-02-26,1412.8,0,3.6,Reçu
+1543,HealthTech Group,Entretien,2025-05-31,2025-06-08,8450.32,3,3.9,Reçu
+1544,Sanitech,Sécurité,2025-02-24,2025-02-27,19503.26,0,4.2,En cours
+1545,MedSupply SAS,Logistique,2025-06-01,2025-06-07,16148.23,1,3.4,En cours
+1546,BioMedica,Logistique,2025-01-14,2025-01-13,16475.24,0,2.2,En cours
+1547,Sanitech,Consulting,2025-05-17,2025-06-01,15598.57,10,2.3,Reçu
+1548,ClinLab Services,Matériel labo,2025-05-29,2025-05-28,6976.37,0,4.6,Reçu
+1549,GlobalMeds,Matériel labo,2025-05-24,2025-05-29,2492.57,0,3.2,En cours
+1550,Sanitech,Consulting,2025-03-10,2025-03-24,7767.55,9,1.5,Reçu
+1551,MedSupply SAS,Équipements médicaux,2025-02-02,2025-02-05,6127.99,0,3.9,Annulé
+1552,MedSupply SAS,Médicaments,2025-06-27,2025-06-27,14344.06,0,2.7,En cours
+1553,BioMedica,Entretien,2025-03-19,2025-03-31,13390.14,7,2.7,En cours
+1554,PharmOne Europe,Médicaments,2025-04-25,2025-05-05,8477.96,5,4.1,Reçu
+1555,Sanitech,Sécurité,2025-03-01,2025-03-12,6151.11,6,1.4,Reçu
+1556,PharmOne Europe,Médicaments,2025-04-26,2025-05-07,1578.15,6,4.8,Reçu
+1557,ClinLab Services,Logistique,2025-03-23,2025-04-07,14874.37,10,3.0,Reçu
+1558,HealthTech Group,Sécurité,2025-05-10,2025-05-18,19370.76,3,4.2,En cours
+1559,PharmOne Europe,Formation,2025-01-04,2025-01-03,19463.57,0,4.4,Reçu
+1560,MedSupply SAS,Matériel labo,2025-05-17,2025-05-18,2672.92,0,1.1,En cours
+1561,PharmaCore,Matériel labo,2025-02-11,2025-02-25,16812.42,9,3.5,Reçu
+1562,HealthTech Group,Services externes,2025-03-02,2025-03-05,5398.76,0,2.4,En cours
+1563,ClinLab Services,Sécurité,2025-04-16,2025-04-21,12954.47,0,3.2,Reçu
+1564,HealthTech Group,Services externes,2025-05-25,2025-05-26,3961.91,0,4.5,En cours
+1565,MedSupply SAS,Équipements médicaux,2025-04-23,2025-05-03,1115.24,5,3.5,Reçu
+1566,ClinLab Services,Entretien,2025-03-03,2025-03-09,13104.11,1,4.7,Reçu
+1567,BioLogix,Sécurité,2025-01-20,2025-01-28,18290.93,3,4.0,En cours
+1568,VitalLab,Entretien,2025-03-08,2025-03-07,2297.64,0,2.2,Reçu
+1569,PharmaCore,Consulting,2025-04-02,2025-04-09,15091.88,2,4.9,En cours
+1570,PharmOne Europe,Entretien,2025-01-19,2025-01-21,14594.05,0,4.2,Reçu
+1571,HealthTech Group,Logistique,2025-03-02,2025-03-01,11613.6,0,1.8,Annulé
+1572,VitalLab,Formation,2025-03-03,2025-03-05,6391.04,0,4.6,En cours
+1573,Sanitech,Services externes,2025-03-18,2025-04-02,9298.26,10,2.7,Reçu
+1574,HealthTech Group,Consulting,2025-02-10,2025-02-24,2403.22,9,1.6,Reçu
+1575,Sanitech,Entretien,2025-02-06,2025-02-07,16671.89,0,4.5,Reçu
+1576,VitalLab,Formation,2025-06-10,2025-06-08,824.28,0,2.3,Reçu
+1577,Sanitech,Consulting,2025-01-09,2025-01-22,13257.31,8,3.1,En cours
+1578,Sanitech,Matériel labo,2025-05-19,2025-05-25,3333.38,1,2.5,Reçu
+1579,GlobalMeds,Sécurité,2025-06-13,2025-06-24,6203.69,6,1.1,Reçu
+1580,HealthTech Group,Logistique,2025-03-09,2025-03-16,6169.93,2,5.0,En cours
+1581,PharmaCore,Entretien,2025-04-06,2025-04-19,17620.58,8,1.9,Annulé
+1582,PharmOne Europe,Équipements médicaux,2025-04-27,2025-04-25,14005.72,0,1.0,Reçu
+1583,GlobalMeds,Matériel labo,2025-04-01,2025-04-11,5448.29,5,4.2,Reçu
+1584,ClinLab Services,Médicaments,2025-05-23,2025-05-29,8211.85,1,2.8,Reçu
+1585,ClinLab Services,Informatique,2025-01-30,2025-02-05,15045.75,1,3.6,Reçu
+1586,MedSupply SAS,Informatique,2025-01-24,2025-01-30,14096.84,1,1.6,En cours
+1587,HealthTech Group,Services externes,2025-04-19,2025-04-21,14270.88,0,2.3,Reçu
+1588,HealthTech Group,Sécurité,2025-03-30,2025-04-04,16216.69,0,3.2,Reçu
+1589,VitalLab,Médicaments,2025-05-19,2025-05-20,18933.65,0,4.1,Reçu
+1590,Sanitech,Entretien,2025-04-04,2025-04-16,6512.02,7,2.8,Reçu
+1591,GlobalMeds,Formation,2025-06-14,2025-06-28,19757.5,9,4.2,Reçu
+1592,Sanitech,Consulting,2025-02-16,2025-02-27,7689.47,6,1.2,Reçu
+1593,VitalLab,Entretien,2025-01-21,2025-01-30,8205.07,4,4.1,Reçu
+1594,VitalLab,Consulting,2025-02-21,2025-02-25,15379.66,0,4.6,Annulé
+1595,VitalLab,Logistique,2025-04-23,2025-04-27,5604.35,0,5.0,Reçu
+1596,ClinLab Services,Informatique,2025-02-15,2025-02-28,11560.63,8,3.1,Reçu
+1597,MedSupply SAS,Sécurité,2025-05-07,2025-05-11,5411.57,0,1.1,Reçu
+1598,BioMedica,Équipements médicaux,2025-01-19,2025-01-26,8918.87,2,4.9,Reçu
+1599,GlobalMeds,Services externes,2025-03-29,2025-04-08,12192.51,5,2.6,En cours
+1600,BioMedica,Équipements médicaux,2025-01-22,2025-01-24,3083.36,0,3.0,Reçu
+1601,ClinLab Services,Entretien,2025-05-09,2025-05-20,19356.25,6,4.5,Reçu
+1602,VitalLab,Équipements médicaux,2025-04-16,2025-04-17,11016.07,0,2.1,Reçu
+1603,MedSupply SAS,Sécurité,2025-05-09,2025-05-24,16491.35,10,3.4,Reçu
+1604,PharmOne Europe,Sécurité,2025-06-01,2025-06-14,10939.96,8,4.6,Reçu
+1605,MedSupply SAS,Matériel labo,2025-03-01,2025-03-14,19013.13,8,2.2,Reçu
+1606,HealthTech Group,Équipements médicaux,2025-06-21,2025-07-03,17608.24,7,1.1,En cours
+1607,HealthTech Group,Logistique,2025-04-13,2025-04-22,13517.84,4,4.7,En cours
+1608,BioMedica,Sécurité,2025-01-08,2025-01-19,11716.81,6,2.4,Annulé
+1609,VitalLab,Matériel labo,2025-03-15,2025-03-28,5502.86,8,1.1,Reçu
+1610,BioLogix,Matériel labo,2025-03-15,2025-03-30,4497.71,10,2.4,Reçu
+1611,VitalLab,Consulting,2025-05-30,2025-06-06,6012.73,2,4.4,En cours
+1612,ClinLab Services,Médicaments,2025-06-06,2025-06-11,12310.77,0,1.9,Reçu
+1613,BioMedica,Informatique,2025-04-23,2025-05-05,4582.35,7,1.8,Reçu
+1614,ClinLab Services,Équipements médicaux,2025-05-12,2025-05-17,12918.77,0,4.3,En cours
+1615,BioMedica,Informatique,2025-05-06,2025-05-10,10759.98,0,2.5,Reçu
+1616,BioLogix,Informatique,2025-06-20,2025-06-24,4626.72,0,2.1,Reçu
+1617,HealthTech Group,Équipements médicaux,2025-04-08,2025-04-15,8951.0,2,1.3,En cours
+1618,BioMedica,Consulting,2025-06-25,2025-07-08,7189.08,8,2.5,Reçu
+1619,MedSupply SAS,Consulting,2025-03-06,2025-03-14,10256.15,3,1.7,Reçu
+1620,PharmOne Europe,Matériel labo,2025-06-07,2025-06-21,17995.24,9,2.1,Reçu
+1621,PharmOne Europe,Services externes,2025-04-05,2025-04-12,9461.68,2,4.4,Reçu
+1622,GlobalMeds,Matériel labo,2025-03-23,2025-03-30,19883.84,2,4.5,Reçu
+1623,PharmOne Europe,Médicaments,2025-06-22,2025-06-24,16084.42,0,2.3,Reçu
+1624,Sanitech,Informatique,2025-06-11,2025-06-23,10808.2,7,4.8,Reçu
+1625,PharmaCore,Sécurité,2025-03-24,2025-03-25,18657.06,0,4.0,Reçu
+1626,PharmaCore,Services externes,2025-04-14,2025-04-13,2817.94,0,2.1,Reçu
+1627,GlobalMeds,Informatique,2025-01-27,2025-02-09,1256.27,8,1.5,Reçu
+1628,ClinLab Services,Logistique,2025-04-29,2025-05-13,10606.41,9,3.8,Annulé
+1629,PharmaCore,Consulting,2025-04-28,2025-05-05,12295.38,2,2.7,Annulé
+1630,BioLogix,Informatique,2025-02-26,2025-03-09,15910.54,6,3.3,Reçu
+1631,BioMedica,Informatique,2025-06-27,2025-06-29,19946.33,0,2.4,Reçu
+1632,GlobalMeds,Services externes,2025-03-20,2025-03-31,9864.11,6,1.0,Reçu
+1633,PharmOne Europe,Informatique,2025-06-15,2025-06-28,15501.84,8,4.4,Reçu
+1634,GlobalMeds,Matériel labo,2025-06-11,2025-06-11,10057.16,0,4.3,En cours
+1635,BioMedica,Entretien,2025-04-07,2025-04-22,11670.84,10,2.4,Annulé
+1636,ClinLab Services,Matériel labo,2025-02-16,2025-02-26,10557.47,5,4.5,En cours
+1637,VitalLab,Services externes,2025-04-24,2025-04-26,1282.88,0,4.2,Reçu
+1638,ClinLab Services,Services externes,2025-01-23,2025-01-28,2683.99,0,3.3,Reçu
+1639,BioLogix,Sécurité,2025-06-14,2025-06-23,14186.28,4,4.3,Reçu
+1640,HealthTech Group,Consulting,2025-04-04,2025-04-10,10423.55,1,3.6,Reçu
+1641,MedSupply SAS,Matériel labo,2025-03-13,2025-03-12,6218.76,0,1.8,Reçu
+1642,VitalLab,Entretien,2025-05-07,2025-05-20,2074.1,8,1.4,Reçu
+1643,GlobalMeds,Médicaments,2025-05-10,2025-05-21,18694.02,6,2.3,Reçu
+1644,BioLogix,Sécurité,2025-06-15,2025-06-22,14746.78,2,3.8,Reçu
+1645,GlobalMeds,Informatique,2025-02-20,2025-03-05,11816.6,8,3.0,Reçu
+1646,VitalLab,Médicaments,2025-02-03,2025-02-10,16009.92,2,1.5,Reçu
+1647,BioMedica,Consulting,2025-06-14,2025-06-22,2174.49,3,2.6,Reçu
+1648,BioLogix,Sécurité,2025-05-19,2025-06-01,13036.21,8,3.7,Reçu
+1649,HealthTech Group,Entretien,2025-04-10,2025-04-24,11640.58,9,1.2,Reçu
+1650,HealthTech Group,Formation,2025-01-14,2025-01-28,7769.71,9,1.8,Reçu
+1651,MedSupply SAS,Consulting,2025-03-16,2025-03-23,13626.94,2,1.6,En cours
+1652,MedSupply SAS,Matériel labo,2025-06-07,2025-06-16,3292.55,4,4.7,Reçu
+1653,BioLogix,Matériel labo,2025-02-10,2025-02-14,16826.22,0,4.9,Annulé
+1654,BioLogix,Services externes,2025-01-18,2025-01-26,2654.44,3,3.5,Reçu
+1655,MedSupply SAS,Logistique,2025-04-26,2025-04-28,16148.86,0,1.5,Reçu
+1656,ClinLab Services,Formation,2025-02-19,2025-02-22,7524.96,0,4.2,Reçu
+1657,ClinLab Services,Sécurité,2025-02-23,2025-03-07,4348.17,7,3.9,Reçu
+1658,Sanitech,Entretien,2025-01-26,2025-02-05,7385.4,5,3.5,Reçu
+1659,VitalLab,Services externes,2025-02-11,2025-02-13,13228.49,0,3.6,Reçu
+1660,Sanitech,Services externes,2025-03-31,2025-04-07,10806.67,2,1.9,Reçu
+1661,MedSupply SAS,Logistique,2025-06-18,2025-06-24,1669.52,1,3.3,Reçu
+1662,BioMedica,Médicaments,2025-04-30,2025-04-29,16980.71,0,4.8,Annulé
+1663,PharmaCore,Matériel labo,2025-01-21,2025-01-28,1250.35,2,4.2,Reçu
+1664,BioMedica,Entretien,2025-01-04,2025-01-13,519.2,4,2.4,Annulé
+1665,BioMedica,Formation,2025-05-02,2025-05-08,11341.48,1,4.6,En cours
+1666,Sanitech,Consulting,2025-04-27,2025-05-01,8660.81,0,2.4,Reçu
+1667,VitalLab,Formation,2025-06-23,2025-07-04,5605.14,6,2.8,Annulé
+1668,GlobalMeds,Formation,2025-06-28,2025-07-11,8231.91,8,3.0,Reçu
+1669,Sanitech,Informatique,2025-02-28,2025-03-05,14440.25,0,3.1,Reçu
+1670,BioMedica,Consulting,2025-04-09,2025-04-14,18304.63,0,4.1,Reçu
+1671,GlobalMeds,Logistique,2025-04-28,2025-05-01,14993.59,0,4.7,Annulé
+1672,GlobalMeds,Services externes,2025-02-03,2025-02-08,14592.61,0,4.8,En cours
+1673,HealthTech Group,Consulting,2025-04-02,2025-04-07,12431.86,0,3.6,Reçu
+1674,Sanitech,Logistique,2025-03-19,2025-03-23,15578.31,0,4.5,Reçu
+1675,Sanitech,Services externes,2025-02-16,2025-02-19,14578.12,0,3.1,Reçu
+1676,HealthTech Group,Entretien,2025-04-11,2025-04-25,5221.15,9,2.3,Reçu
+1677,VitalLab,Sécurité,2025-04-19,2025-04-19,13218.39,0,2.7,Reçu
+1678,ClinLab Services,Sécurité,2025-06-15,2025-06-25,12693.95,5,1.8,Reçu
+1679,VitalLab,Entretien,2025-03-27,2025-04-11,12278.26,10,1.2,Reçu
+1680,VitalLab,Logistique,2025-05-13,2025-05-11,1281.98,0,2.8,Reçu
+1681,VitalLab,Services externes,2025-05-14,2025-05-17,9707.13,0,1.5,En cours
+1682,MedSupply SAS,Entretien,2025-03-16,2025-03-14,2807.75,0,4.9,Reçu
+1683,MedSupply SAS,Équipements médicaux,2025-06-13,2025-06-15,7291.5,0,1.7,Reçu
+1684,HealthTech Group,Services externes,2025-01-16,2025-01-27,16523.36,6,2.9,Reçu
+1685,HealthTech Group,Logistique,2025-06-04,2025-06-16,17970.89,7,2.8,Reçu
+1686,PharmaCore,Informatique,2025-01-29,2025-01-30,19337.38,0,2.4,Reçu
+1687,Sanitech,Entretien,2025-05-03,2025-05-07,12079.04,0,2.1,Reçu
+1688,BioMedica,Informatique,2025-04-08,2025-04-14,18034.55,1,1.4,Reçu
+1689,BioLogix,Sécurité,2025-01-06,2025-01-13,1597.08,2,4.3,Reçu
+1690,BioLogix,Médicaments,2025-06-28,2025-07-12,10779.51,9,1.7,Reçu
+1691,PharmOne Europe,Sécurité,2025-02-28,2025-02-28,14667.95,0,2.5,Reçu
+1692,HealthTech Group,Équipements médicaux,2025-03-19,2025-03-26,1885.41,2,2.0,Annulé
+1693,PharmaCore,Sécurité,2025-03-26,2025-04-04,3997.49,4,3.7,En cours
+1694,Sanitech,Matériel labo,2025-01-21,2025-02-02,12211.87,7,4.0,Reçu
+1695,BioMedica,Sécurité,2025-06-16,2025-06-14,11201.9,0,3.2,Reçu
+1696,BioLogix,Matériel labo,2025-06-22,2025-06-22,2299.22,0,2.7,Reçu
+1697,BioMedica,Médicaments,2025-03-28,2025-04-02,12045.77,0,4.8,Reçu
+1698,PharmOne Europe,Services externes,2025-05-12,2025-05-21,6271.45,4,3.7,Reçu
+1699,ClinLab Services,Informatique,2025-06-01,2025-06-02,13324.29,0,2.0,Reçu
+1700,BioMedica,Informatique,2025-05-06,2025-05-16,18038.12,5,3.7,En cours
+1701,GlobalMeds,Consulting,2025-06-07,2025-06-07,2137.82,0,1.4,Reçu
+1702,MedSupply SAS,Médicaments,2025-02-04,2025-02-02,9992.47,0,3.0,Annulé
+1703,VitalLab,Formation,2025-03-06,2025-03-09,9026.02,0,2.0,Reçu
+1704,PharmOne Europe,Sécurité,2025-03-26,2025-04-10,11992.21,10,3.7,En cours
+1705,GlobalMeds,Entretien,2025-02-18,2025-03-02,12732.73,7,1.3,Reçu
+1706,ClinLab Services,Matériel labo,2025-06-13,2025-06-27,9732.63,9,1.6,Reçu
+1707,BioMedica,Médicaments,2025-05-14,2025-05-25,1415.19,6,3.3,Reçu
+1708,MedSupply SAS,Médicaments,2025-03-13,2025-03-12,2509.8,0,2.2,En cours
+1709,Sanitech,Médicaments,2025-02-02,2025-01-31,2774.41,0,1.0,Reçu
+1710,MedSupply SAS,Sécurité,2025-05-30,2025-06-06,11007.52,2,4.0,Reçu
+1711,VitalLab,Formation,2025-01-04,2025-01-12,8917.16,3,1.0,En cours
+1712,VitalLab,Médicaments,2025-03-30,2025-04-10,3984.63,6,1.0,Annulé
+1713,Sanitech,Médicaments,2025-06-18,2025-06-17,1347.29,0,2.7,Reçu
+1714,GlobalMeds,Équipements médicaux,2025-03-31,2025-04-07,19015.56,2,3.9,Annulé
+1715,Sanitech,Sécurité,2025-04-19,2025-05-01,569.43,7,2.6,Reçu
+1716,PharmOne Europe,Formation,2025-01-12,2025-01-15,3935.03,0,2.1,Reçu
+1717,BioLogix,Matériel labo,2025-04-04,2025-04-07,16484.74,0,1.4,En cours
+1718,PharmaCore,Matériel labo,2025-03-14,2025-03-16,3708.95,0,2.4,Reçu
+1719,BioMedica,Consulting,2025-05-22,2025-05-22,12568.11,0,1.1,Reçu
+1720,PharmaCore,Logistique,2025-02-26,2025-03-12,5281.24,9,3.5,Reçu
+1721,BioMedica,Logistique,2025-01-16,2025-01-22,13841.67,1,2.1,Reçu
+1722,PharmaCore,Services externes,2025-06-15,2025-06-21,8384.75,1,3.6,En cours
+1723,Sanitech,Logistique,2025-01-07,2025-01-05,7611.65,0,4.1,Reçu
+1724,PharmOne Europe,Logistique,2025-06-27,2025-07-12,5954.65,10,2.9,Reçu
+1725,Sanitech,Services externes,2025-05-02,2025-05-07,10980.04,0,3.4,Reçu
+1726,VitalLab,Équipements médicaux,2025-04-21,2025-04-20,2976.91,0,2.3,En cours
+1727,MedSupply SAS,Médicaments,2025-02-20,2025-02-23,7738.86,0,2.9,En cours
+1728,Sanitech,Entretien,2025-06-25,2025-06-26,3188.25,0,3.3,Reçu
+1729,BioLogix,Informatique,2025-02-15,2025-02-27,15137.88,7,4.9,Reçu
+1730,PharmaCore,Équipements médicaux,2025-05-29,2025-06-03,8869.23,0,3.7,Reçu
+1731,MedSupply SAS,Sécurité,2025-04-21,2025-05-03,1465.94,7,2.9,Reçu
+1732,BioMedica,Consulting,2025-03-10,2025-03-19,15337.93,4,1.4,Reçu
+1733,ClinLab Services,Matériel labo,2025-05-14,2025-05-26,5416.38,7,1.5,Reçu
+1734,VitalLab,Équipements médicaux,2025-05-08,2025-05-20,3881.29,7,1.0,Reçu
+1735,GlobalMeds,Équipements médicaux,2025-05-31,2025-06-07,9519.79,2,4.4,Reçu
+1736,Sanitech,Matériel labo,2025-01-08,2025-01-08,4108.5,0,2.9,Reçu
+1737,VitalLab,Médicaments,2025-01-14,2025-01-26,5395.15,7,4.3,Reçu
+1738,VitalLab,Matériel labo,2025-03-15,2025-03-16,15149.63,0,4.6,En cours
+1739,MedSupply SAS,Logistique,2025-03-11,2025-03-18,12149.1,2,1.6,Annulé
+1740,VitalLab,Médicaments,2025-05-23,2025-05-21,9782.2,0,3.0,En cours
+1741,Sanitech,Entretien,2025-06-30,2025-07-15,18225.65,10,3.3,Reçu
+1742,BioMedica,Services externes,2025-05-04,2025-05-08,12244.25,0,4.8,Reçu
+1743,ClinLab Services,Consulting,2025-06-04,2025-06-11,3055.55,2,4.2,Reçu
+1744,ClinLab Services,Sécurité,2025-01-23,2025-02-06,9743.32,9,4.9,Reçu
+1745,PharmaCore,Logistique,2025-01-25,2025-01-29,18302.49,0,4.8,Annulé
+1746,VitalLab,Formation,2025-06-10,2025-06-21,11226.78,6,1.9,Reçu
+1747,Sanitech,Sécurité,2025-03-24,2025-04-02,16538.04,4,2.2,En cours
+1748,BioMedica,Sécurité,2025-06-29,2025-07-08,19836.58,4,3.3,Reçu
+1749,PharmOne Europe,Matériel labo,2025-02-06,2025-02-19,6016.51,8,3.4,En cours
+1750,VitalLab,Services externes,2025-04-17,2025-04-27,1781.04,5,1.9,En cours
+1751,ClinLab Services,Informatique,2025-02-11,2025-02-25,774.52,9,2.3,Annulé
+1752,MedSupply SAS,Formation,2025-05-01,2025-05-03,14078.88,0,2.5,Reçu
+1753,HealthTech Group,Équipements médicaux,2025-01-23,2025-01-27,11141.66,0,1.7,Reçu
+1754,GlobalMeds,Consulting,2025-04-26,2025-05-06,5266.44,5,3.9,Reçu
+1755,MedSupply SAS,Informatique,2025-02-17,2025-02-15,19714.06,0,4.4,Reçu
+1756,PharmOne Europe,Logistique,2025-01-28,2025-01-30,790.68,0,2.6,Reçu
+1757,PharmaCore,Médicaments,2025-06-16,2025-06-26,8519.84,5,1.3,En cours
+1758,GlobalMeds,Équipements médicaux,2025-03-22,2025-04-02,19448.72,6,2.3,En cours
+1759,Sanitech,Médicaments,2025-02-18,2025-02-21,15598.35,0,4.3,Reçu
+1760,PharmOne Europe,Consulting,2025-06-16,2025-06-28,1377.72,7,3.2,Reçu
+1761,BioMedica,Matériel labo,2025-03-28,2025-03-29,4039.65,0,4.8,Reçu
+1762,PharmaCore,Médicaments,2025-05-29,2025-06-12,9671.36,9,2.4,Reçu
+1763,BioMedica,Services externes,2025-04-12,2025-04-20,19898.6,3,4.0,Reçu
+1764,ClinLab Services,Médicaments,2025-02-02,2025-02-07,7724.59,0,3.1,Reçu
+1765,PharmaCore,Équipements médicaux,2025-02-24,2025-02-22,2578.53,0,1.1,En cours
+1766,PharmaCore,Logistique,2025-01-28,2025-02-12,9662.49,10,4.4,Reçu
+1767,Sanitech,Services externes,2025-05-23,2025-05-29,3704.54,1,3.5,Reçu
+1768,PharmOne Europe,Logistique,2025-05-07,2025-05-15,1456.06,3,3.7,Reçu
+1769,PharmOne Europe,Logistique,2025-06-19,2025-06-23,5928.05,0,4.2,Reçu
+1770,Sanitech,Équipements médicaux,2025-02-28,2025-03-04,5687.12,0,1.3,En cours
+1771,PharmaCore,Services externes,2025-03-16,2025-03-26,13568.55,5,4.4,Reçu
+1772,VitalLab,Formation,2025-01-02,2025-01-13,8340.0,6,3.4,Annulé
+1773,Sanitech,Équipements médicaux,2025-05-21,2025-05-20,10687.14,0,3.8,En cours
+1774,GlobalMeds,Matériel labo,2025-04-27,2025-05-10,8641.63,8,2.1,Reçu
+1775,PharmOne Europe,Consulting,2025-04-17,2025-04-29,11901.56,7,2.4,En cours
+1776,PharmOne Europe,Logistique,2025-04-21,2025-04-24,4641.98,0,3.2,Reçu
+1777,HealthTech Group,Équipements médicaux,2025-04-20,2025-04-18,3501.88,0,3.8,Reçu
+1778,VitalLab,Services externes,2025-04-08,2025-04-07,7551.11,0,3.4,Reçu
+1779,ClinLab Services,Entretien,2025-03-17,2025-04-01,6024.9,10,3.6,En cours
+1780,PharmOne Europe,Formation,2025-02-05,2025-02-13,11180.24,3,3.1,Annulé
+1781,GlobalMeds,Formation,2025-06-21,2025-07-01,6098.0,5,3.3,En cours
+1782,PharmaCore,Formation,2025-04-28,2025-05-08,2335.88,5,4.5,En cours
+1783,BioMedica,Matériel labo,2025-01-13,2025-01-14,1303.05,0,3.5,Annulé
+1784,ClinLab Services,Matériel labo,2025-05-29,2025-05-28,1562.94,0,3.4,Reçu
+1785,GlobalMeds,Consulting,2025-01-05,2025-01-03,2694.27,0,3.1,Reçu
+1786,PharmOne Europe,Formation,2025-05-21,2025-05-24,12121.56,0,4.8,Reçu
+1787,HealthTech Group,Entretien,2025-05-24,2025-05-23,10826.66,0,4.0,Reçu
+1788,PharmaCore,Sécurité,2025-01-15,2025-01-25,12582.91,5,1.1,Reçu
+1789,BioMedica,Consulting,2025-05-20,2025-05-28,4243.37,3,4.4,Reçu
+1790,MedSupply SAS,Informatique,2025-01-25,2025-01-26,16927.64,0,1.3,Reçu
+1791,ClinLab Services,Services externes,2025-03-19,2025-03-27,12089.0,3,2.4,Reçu
+1792,VitalLab,Médicaments,2025-02-20,2025-02-24,17356.79,0,4.1,Annulé
+1793,BioLogix,Médicaments,2025-04-21,2025-04-19,8417.67,0,1.3,En cours
+1794,PharmOne Europe,Équipements médicaux,2025-06-04,2025-06-06,5105.09,0,2.6,Reçu
+1795,MedSupply SAS,Services externes,2025-01-27,2025-02-10,10691.52,9,2.3,Reçu
+1796,GlobalMeds,Consulting,2025-03-17,2025-03-15,17232.73,0,4.0,Annulé
+1797,HealthTech Group,Formation,2025-03-31,2025-04-15,12199.02,10,1.7,Reçu
+1798,HealthTech Group,Matériel labo,2025-06-03,2025-06-11,19593.6,3,4.9,Reçu
+1799,BioMedica,Formation,2025-02-08,2025-02-15,2198.0,2,3.9,En cours
+1800,BioMedica,Logistique,2025-04-09,2025-04-08,17311.72,0,3.4,En cours
+1801,VitalLab,Consulting,2025-04-14,2025-04-24,2604.74,5,5.0,Reçu
+1802,BioLogix,Entretien,2025-01-14,2025-01-19,8272.41,0,3.5,Reçu
+1803,BioMedica,Consulting,2025-03-03,2025-03-14,11058.5,6,2.3,Reçu
+1804,BioLogix,Médicaments,2025-05-20,2025-05-28,1043.6,3,2.6,Reçu
+1805,GlobalMeds,Équipements médicaux,2025-04-30,2025-05-11,9219.3,6,4.9,Reçu
+1806,ClinLab Services,Logistique,2025-02-19,2025-02-20,5092.25,0,3.4,Reçu
+1807,Sanitech,Formation,2025-03-31,2025-03-29,12621.63,0,1.2,Reçu
+1808,PharmaCore,Sécurité,2025-04-29,2025-04-29,19425.87,0,4.5,En cours
+1809,PharmOne Europe,Formation,2025-06-01,2025-06-12,19746.51,6,2.1,En cours
+1810,PharmOne Europe,Médicaments,2025-04-16,2025-04-20,2334.09,0,2.7,Reçu
+1811,BioLogix,Formation,2025-04-23,2025-04-26,17866.96,0,1.6,Reçu
+1812,Sanitech,Services externes,2025-01-25,2025-01-24,14818.18,0,4.7,En cours
+1813,BioLogix,Sécurité,2025-06-21,2025-06-27,12428.45,1,2.2,Reçu
+1814,GlobalMeds,Formation,2025-05-20,2025-06-04,2289.82,10,2.3,Reçu
+1815,BioLogix,Logistique,2025-05-09,2025-05-21,17153.96,7,1.3,Reçu
+1816,MedSupply SAS,Informatique,2025-02-18,2025-02-22,8709.71,0,2.2,En cours
+1817,ClinLab Services,Services externes,2025-02-17,2025-03-04,3537.8,10,4.1,Reçu
+1818,BioMedica,Informatique,2025-06-02,2025-06-01,4738.35,0,3.0,En cours
+1819,GlobalMeds,Formation,2025-02-12,2025-02-15,3796.25,0,2.7,Reçu
+1820,BioLogix,Formation,2025-05-01,2025-05-06,14904.7,0,2.7,Reçu
+1821,MedSupply SAS,Équipements médicaux,2025-02-06,2025-02-20,6733.41,9,2.8,En cours
+1822,PharmOne Europe,Médicaments,2025-01-23,2025-02-03,3506.26,6,2.7,Reçu
+1823,PharmaCore,Équipements médicaux,2025-03-29,2025-04-10,12025.02,7,1.3,En cours
+1824,PharmaCore,Services externes,2025-01-24,2025-02-03,2113.49,5,4.3,Annulé
+1825,VitalLab,Logistique,2025-01-22,2025-01-29,10293.75,2,2.2,Reçu
+1826,MedSupply SAS,Matériel labo,2025-03-08,2025-03-09,14697.18,0,3.2,Reçu
+1827,PharmaCore,Médicaments,2025-06-06,2025-06-12,4655.24,1,2.5,En cours
+1828,BioLogix,Sécurité,2025-05-01,2025-05-02,5357.37,0,4.9,Reçu
+1829,ClinLab Services,Formation,2025-02-22,2025-02-22,4406.84,0,2.5,Reçu
+1830,HealthTech Group,Formation,2025-02-07,2025-02-14,17733.73,2,1.1,Reçu
+1831,BioLogix,Logistique,2025-03-06,2025-03-04,4221.11,0,1.8,Reçu
+1832,PharmOne Europe,Entretien,2025-02-14,2025-02-26,6547.49,7,1.6,En cours
+1833,VitalLab,Informatique,2025-02-15,2025-02-20,17051.81,0,3.0,Reçu
+1834,BioLogix,Services externes,2025-06-27,2025-06-27,9388.72,0,3.4,Reçu
+1835,HealthTech Group,Informatique,2025-04-13,2025-04-21,10917.96,3,2.8,En cours
+1836,GlobalMeds,Sécurité,2025-05-31,2025-06-02,13258.11,0,2.7,Reçu
+1837,VitalLab,Formation,2025-05-14,2025-05-18,6548.52,0,1.3,Reçu
+1838,BioLogix,Formation,2025-05-28,2025-06-12,18322.7,10,2.3,Reçu
+1839,MedSupply SAS,Formation,2025-03-26,2025-04-03,17059.42,3,3.8,Reçu
+1840,VitalLab,Consulting,2025-05-03,2025-05-18,19596.05,10,3.1,Reçu
+1841,PharmaCore,Équipements médicaux,2025-06-09,2025-06-21,19400.24,7,3.4,Reçu
+1842,BioMedica,Formation,2025-06-29,2025-07-07,5944.88,3,1.5,Reçu
+1843,VitalLab,Équipements médicaux,2025-05-20,2025-05-18,2153.87,0,3.0,Reçu
+1844,HealthTech Group,Formation,2025-01-19,2025-01-19,13992.02,0,2.3,Reçu
+1845,GlobalMeds,Services externes,2025-02-27,2025-02-25,6910.72,0,4.2,Annulé
+1846,GlobalMeds,Entretien,2025-01-06,2025-01-21,18471.0,10,1.1,Reçu
+1847,Sanitech,Matériel labo,2025-03-06,2025-03-20,10880.23,9,3.8,Reçu
+1848,Sanitech,Services externes,2025-05-12,2025-05-26,3239.27,9,3.4,Reçu
+1849,Sanitech,Consulting,2025-05-12,2025-05-15,13635.16,0,3.0,Reçu
+1850,PharmaCore,Informatique,2025-06-28,2025-07-04,19522.01,1,3.8,Reçu
+1851,PharmOne Europe,Sécurité,2025-02-05,2025-02-12,7087.74,2,3.2,En cours
+1852,GlobalMeds,Services externes,2025-06-03,2025-06-17,17046.71,9,3.4,Reçu
+1853,BioMedica,Médicaments,2025-04-07,2025-04-11,2246.18,0,1.3,Annulé
+1854,BioLogix,Médicaments,2025-06-22,2025-06-28,18695.43,1,2.4,Reçu
+1855,BioLogix,Entretien,2025-03-22,2025-03-20,755.11,0,1.2,Reçu
+1856,MedSupply SAS,Consulting,2025-04-12,2025-04-22,2189.29,5,2.7,Reçu
+1857,Sanitech,Médicaments,2025-01-15,2025-01-29,15754.27,9,2.3,Reçu
+1858,VitalLab,Équipements médicaux,2025-01-29,2025-02-05,11691.42,2,3.8,Reçu
+1859,VitalLab,Entretien,2025-03-23,2025-03-25,14074.29,0,4.2,Reçu
+1860,ClinLab Services,Matériel labo,2025-04-20,2025-04-19,18804.38,0,1.1,Annulé
+1861,GlobalMeds,Équipements médicaux,2025-05-04,2025-05-11,17992.86,2,4.8,Annulé
+1862,PharmOne Europe,Entretien,2025-04-16,2025-04-28,10858.83,7,1.1,Reçu
+1863,PharmaCore,Équipements médicaux,2025-03-25,2025-04-06,17493.6,7,4.3,En cours
+1864,MedSupply SAS,Médicaments,2025-05-31,2025-06-07,9318.71,2,4.4,Reçu
+1865,PharmaCore,Équipements médicaux,2025-06-10,2025-06-10,571.3,0,1.2,Reçu
+1866,ClinLab Services,Formation,2025-04-09,2025-04-22,6443.3,8,3.8,En cours
+1867,PharmOne Europe,Équipements médicaux,2025-06-16,2025-06-15,19484.89,0,3.1,Reçu
+1868,BioMedica,Logistique,2025-05-28,2025-05-27,14723.03,0,1.2,Reçu
+1869,PharmOne Europe,Consulting,2025-04-04,2025-04-16,16955.2,7,4.7,Reçu
+1870,PharmaCore,Matériel labo,2025-01-25,2025-01-31,1448.93,1,1.0,En cours
+1871,MedSupply SAS,Informatique,2025-02-10,2025-02-14,17916.74,0,1.6,Reçu
+1872,ClinLab Services,Sécurité,2025-01-27,2025-01-31,13382.72,0,2.1,Reçu
+1873,BioMedica,Entretien,2025-06-28,2025-06-29,16690.37,0,3.5,En cours
+1874,Sanitech,Entretien,2025-05-04,2025-05-11,16704.53,2,3.0,Reçu
+1875,ClinLab Services,Sécurité,2025-02-20,2025-02-19,18081.25,0,3.8,Reçu
+1876,BioLogix,Formation,2025-06-21,2025-06-19,4193.19,0,4.8,Reçu
+1877,ClinLab Services,Consulting,2025-05-02,2025-05-12,12156.56,5,2.3,Reçu
+1878,BioMedica,Médicaments,2025-03-02,2025-03-17,15738.69,10,4.2,Reçu
+1879,ClinLab Services,Médicaments,2025-06-02,2025-06-06,15437.34,0,1.9,Reçu
+1880,BioMedica,Logistique,2025-04-19,2025-05-04,12191.98,10,2.0,Reçu
+1881,Sanitech,Médicaments,2025-01-07,2025-01-05,17641.5,0,3.2,Reçu
+1882,PharmaCore,Formation,2025-02-03,2025-02-13,6656.6,5,3.3,Reçu
+1883,GlobalMeds,Consulting,2025-04-30,2025-05-10,1935.67,5,2.7,En cours
+1884,Sanitech,Médicaments,2025-05-26,2025-05-29,13774.89,0,3.1,Reçu
+1885,BioMedica,Entretien,2025-05-13,2025-05-22,10452.69,4,3.2,En cours
+1886,ClinLab Services,Formation,2025-06-17,2025-06-28,16344.03,6,1.7,Reçu
+1887,PharmaCore,Consulting,2025-03-22,2025-03-24,3106.46,0,3.2,En cours
+1888,BioLogix,Équipements médicaux,2025-03-29,2025-03-31,3817.28,0,4.7,Reçu
+1889,VitalLab,Équipements médicaux,2025-04-25,2025-04-29,16148.73,0,4.5,Reçu
+1890,MedSupply SAS,Médicaments,2025-05-21,2025-05-23,6733.5,0,4.1,Reçu
+1891,BioLogix,Informatique,2025-02-15,2025-02-28,14812.37,8,3.3,Reçu
+1892,PharmOne Europe,Entretien,2025-03-31,2025-04-08,7215.69,3,3.0,En cours
+1893,BioMedica,Services externes,2025-04-06,2025-04-21,7739.17,10,4.3,Reçu
+1894,Sanitech,Consulting,2025-06-06,2025-06-08,15211.92,0,2.6,Reçu
+1895,PharmaCore,Services externes,2025-04-22,2025-04-25,10262.8,0,1.3,Reçu
+1896,VitalLab,Logistique,2025-01-23,2025-01-26,11660.15,0,4.4,En cours
+1897,PharmaCore,Sécurité,2025-01-25,2025-01-25,9617.3,0,4.0,Reçu
+1898,MedSupply SAS,Formation,2025-01-09,2025-01-11,7954.44,0,3.9,Reçu
+1899,PharmOne Europe,Logistique,2025-06-28,2025-07-06,5186.77,3,1.7,Reçu
+1900,PharmaCore,Matériel labo,2025-01-12,2025-01-20,13811.98,3,3.7,Reçu
+1901,VitalLab,Sécurité,2025-01-19,2025-01-20,4559.9,0,4.0,En cours
+1902,BioLogix,Logistique,2025-06-24,2025-06-28,17358.75,0,2.0,Reçu
+1903,BioMedica,Formation,2025-06-27,2025-07-09,7076.7,7,4.6,Reçu
+1904,GlobalMeds,Logistique,2025-03-13,2025-03-12,8668.06,0,2.7,Reçu
+1905,BioLogix,Équipements médicaux,2025-05-13,2025-05-11,5819.89,0,1.5,Reçu
+1906,PharmOne Europe,Informatique,2025-01-12,2025-01-24,19051.74,7,1.2,Reçu
+1907,PharmaCore,Entretien,2025-03-25,2025-03-28,12480.14,0,4.7,Reçu
+1908,ClinLab Services,Médicaments,2025-05-20,2025-06-04,2263.29,10,2.4,Reçu
+1909,PharmOne Europe,Matériel labo,2025-03-19,2025-04-01,6737.97,8,2.8,Reçu
+1910,PharmaCore,Entretien,2025-02-01,2025-02-01,10752.34,0,2.8,Reçu
+1911,PharmOne Europe,Matériel labo,2025-05-16,2025-05-16,14661.24,0,2.9,Reçu
+1912,HealthTech Group,Sécurité,2025-05-10,2025-05-21,8725.26,6,2.4,Reçu
+1913,GlobalMeds,Entretien,2025-04-28,2025-05-06,18674.93,3,4.4,Reçu
+1914,GlobalMeds,Entretien,2025-04-15,2025-04-20,15438.0,0,4.6,Reçu
+1915,ClinLab Services,Consulting,2025-05-22,2025-06-02,7519.8,6,1.5,Reçu
+1916,HealthTech Group,Sécurité,2025-06-06,2025-06-21,10665.96,10,4.5,Reçu
+1917,BioMedica,Entretien,2025-04-19,2025-05-03,18641.38,9,1.4,Reçu
+1918,PharmaCore,Sécurité,2025-05-22,2025-05-21,10830.36,0,2.3,Annulé
+1919,VitalLab,Sécurité,2025-02-24,2025-03-01,6346.99,0,3.9,Reçu
+1920,PharmaCore,Logistique,2025-01-16,2025-01-26,3180.33,5,2.5,Reçu
+1921,HealthTech Group,Services externes,2025-05-08,2025-05-12,9287.29,0,3.5,Reçu
+1922,BioLogix,Informatique,2025-02-21,2025-03-02,19527.08,4,4.0,Annulé
+1923,PharmaCore,Entretien,2025-03-22,2025-04-06,6053.9,10,2.0,Reçu
+1924,BioMedica,Équipements médicaux,2025-01-15,2025-01-27,18480.94,7,4.2,Reçu
+1925,VitalLab,Équipements médicaux,2025-06-06,2025-06-14,2135.15,3,2.7,Reçu
+1926,PharmaCore,Équipements médicaux,2025-02-04,2025-02-02,9608.46,0,2.3,Reçu
+1927,ClinLab Services,Matériel labo,2025-04-21,2025-05-03,14132.75,7,2.5,Reçu
+1928,Sanitech,Matériel labo,2025-01-09,2025-01-11,16745.11,0,2.1,En cours
+1929,BioLogix,Formation,2025-05-07,2025-05-11,6692.09,0,1.0,Reçu
+1930,VitalLab,Informatique,2025-01-03,2025-01-07,6194.6,0,1.9,En cours
+1931,BioMedica,Matériel labo,2025-02-28,2025-03-15,2425.67,10,3.5,Reçu
+1932,Sanitech,Informatique,2025-05-14,2025-05-28,16923.0,9,1.6,En cours
+1933,VitalLab,Formation,2025-02-04,2025-02-02,13941.67,0,2.9,Annulé
+1934,MedSupply SAS,Informatique,2025-01-14,2025-01-27,9600.71,8,3.8,Reçu
+1935,GlobalMeds,Services externes,2025-04-06,2025-04-19,6278.88,8,2.1,En cours
+1936,PharmaCore,Logistique,2025-02-26,2025-03-08,767.27,5,2.2,En cours
+1937,BioMedica,Médicaments,2025-03-07,2025-03-15,14853.61,3,1.4,En cours
+1938,PharmaCore,Matériel labo,2025-01-06,2025-01-05,4944.99,0,2.1,En cours
+1939,MedSupply SAS,Sécurité,2025-05-04,2025-05-12,12920.17,3,2.1,En cours
+1940,Sanitech,Médicaments,2025-05-28,2025-06-04,11456.28,2,3.5,Reçu
+1941,GlobalMeds,Services externes,2025-05-21,2025-05-20,11204.93,0,2.3,Reçu
+1942,HealthTech Group,Équipements médicaux,2025-04-13,2025-04-22,14605.48,4,4.7,Reçu
+1943,MedSupply SAS,Informatique,2025-02-10,2025-02-10,8083.94,0,2.3,Reçu
+1944,BioLogix,Consulting,2025-01-10,2025-01-10,19990.53,0,1.6,Reçu
+1945,HealthTech Group,Formation,2025-05-23,2025-06-02,14239.25,5,1.5,Reçu
+1946,HealthTech Group,Sécurité,2025-05-03,2025-05-03,5589.52,0,4.4,En cours
+1947,MedSupply SAS,Consulting,2025-03-29,2025-04-11,13701.73,8,4.1,En cours
+1948,HealthTech Group,Sécurité,2025-03-11,2025-03-20,3097.44,4,3.2,Reçu
+1949,PharmOne Europe,Services externes,2025-02-26,2025-03-13,5201.55,10,2.9,Reçu
+1950,PharmaCore,Consulting,2025-05-20,2025-06-04,549.23,10,2.9,Annulé
+1951,ClinLab Services,Sécurité,2025-03-30,2025-04-12,11818.41,8,4.4,Annulé
+1952,Sanitech,Équipements médicaux,2025-03-16,2025-03-27,18676.95,6,3.1,Reçu
+1953,MedSupply SAS,Consulting,2025-05-16,2025-05-27,16839.64,6,1.3,Annulé
+1954,GlobalMeds,Sécurité,2025-06-12,2025-06-18,9662.5,1,2.0,Reçu
+1955,PharmOne Europe,Logistique,2025-03-16,2025-03-22,1192.75,1,2.7,Annulé
+1956,MedSupply SAS,Équipements médicaux,2025-06-16,2025-06-28,17651.97,7,2.6,Annulé
+1957,ClinLab Services,Services externes,2025-03-21,2025-04-03,11012.49,8,4.3,Reçu
+1958,MedSupply SAS,Entretien,2025-01-09,2025-01-09,3963.33,0,3.6,En cours
+1959,Sanitech,Entretien,2025-01-03,2025-01-13,8207.87,5,1.2,Reçu
+1960,GlobalMeds,Formation,2025-05-07,2025-05-12,9886.82,0,1.4,En cours
+1961,HealthTech Group,Médicaments,2025-05-02,2025-05-14,12819.22,7,1.8,En cours
+1962,BioMedica,Équipements médicaux,2025-01-12,2025-01-14,10597.41,0,2.0,Reçu
+1963,PharmOne Europe,Consulting,2025-06-15,2025-06-28,12096.18,8,3.3,Annulé
+1964,HealthTech Group,Logistique,2025-04-21,2025-05-05,10884.67,9,4.2,Reçu
+1965,BioMedica,Services externes,2025-01-31,2025-01-31,12972.75,0,1.5,Reçu
+1966,ClinLab Services,Formation,2025-02-21,2025-03-05,5282.15,7,1.7,Reçu
+1967,MedSupply SAS,Médicaments,2025-06-05,2025-06-07,12390.37,0,4.0,Reçu
+1968,GlobalMeds,Services externes,2025-04-18,2025-04-24,18775.1,1,2.1,En cours
+1969,MedSupply SAS,Services externes,2025-02-03,2025-02-10,17961.0,2,1.7,Reçu
+1970,PharmOne Europe,Médicaments,2025-05-22,2025-05-20,17166.1,0,2.7,Reçu
+1971,ClinLab Services,Entretien,2025-01-15,2025-01-27,3419.44,7,3.2,Reçu
+1972,BioMedica,Sécurité,2025-02-04,2025-02-14,13511.51,5,2.5,Reçu
+1973,PharmOne Europe,Services externes,2025-03-22,2025-03-28,7703.86,1,3.1,Reçu
+1974,PharmOne Europe,Sécurité,2025-01-28,2025-01-29,14435.74,0,3.3,Reçu
+1975,Sanitech,Services externes,2025-03-24,2025-03-30,7207.53,1,1.8,Reçu
+1976,ClinLab Services,Informatique,2025-04-22,2025-05-02,853.42,5,3.2,Reçu
+1977,BioMedica,Services externes,2025-03-18,2025-03-18,19927.73,0,2.3,En cours
+1978,Sanitech,Informatique,2025-04-22,2025-04-28,13472.77,1,3.8,Annulé
+1979,VitalLab,Sécurité,2025-04-03,2025-04-02,18522.95,0,1.4,Reçu
+1980,HealthTech Group,Informatique,2025-06-16,2025-06-27,5754.37,6,2.4,En cours
+1981,GlobalMeds,Logistique,2025-01-10,2025-01-08,6529.69,0,2.4,Annulé
+1982,PharmOne Europe,Équipements médicaux,2025-01-16,2025-01-27,6333.05,6,3.2,En cours
+1983,PharmOne Europe,Sécurité,2025-03-28,2025-04-01,12724.89,0,4.6,Reçu
+1984,PharmaCore,Matériel labo,2025-03-18,2025-03-18,19551.02,0,3.9,Reçu
+1985,PharmaCore,Services externes,2025-01-25,2025-02-04,8199.77,5,2.9,Reçu
+1986,BioMedica,Consulting,2025-05-31,2025-06-14,7069.52,9,3.9,Reçu
+1987,Sanitech,Services externes,2025-02-12,2025-02-27,13602.8,10,4.1,Reçu
+1988,MedSupply SAS,Équipements médicaux,2025-05-19,2025-06-03,19016.94,10,3.4,Reçu
+1989,MedSupply SAS,Matériel labo,2025-05-20,2025-05-25,5872.15,0,2.1,Reçu
+1990,MedSupply SAS,Services externes,2025-02-19,2025-03-01,16882.54,5,2.9,Reçu
+1991,ClinLab Services,Médicaments,2025-06-08,2025-06-21,17030.77,8,4.9,Annulé
+1992,MedSupply SAS,Matériel labo,2025-02-08,2025-02-06,3791.67,0,1.5,Reçu
+1993,VitalLab,Équipements médicaux,2025-05-17,2025-05-16,11007.67,0,3.8,Annulé
+1994,HealthTech Group,Matériel labo,2025-06-20,2025-07-01,10566.75,6,1.5,Reçu
+1995,PharmaCore,Formation,2025-03-08,2025-03-19,7924.43,6,3.9,En cours
+1996,VitalLab,Entretien,2025-05-29,2025-05-28,16890.23,0,4.2,En cours
+1997,HealthTech Group,Services externes,2025-06-11,2025-06-13,6929.17,0,1.6,En cours
+1998,PharmaCore,Médicaments,2025-03-17,2025-03-22,9754.84,0,2.8,Reçu
+1999,VitalLab,Formation,2025-02-02,2025-01-31,9930.0,0,4.7,Reçu
