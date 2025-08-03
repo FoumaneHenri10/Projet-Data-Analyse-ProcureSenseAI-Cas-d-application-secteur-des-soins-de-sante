@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 ProcureSenseAI – Workflow global & Architecture du projet
 
 ## Contexte
@@ -80,4 +79,3 @@ Ce projet illustre comment la data et l’IA transforment le pilotage des achats
 =======
 # procuresenseai-pilotage-achats
 Outil de pilotage intelligent des achats et fournisseurs avec Power BI, Python et Snowflake
->>>>>>> 8762154eac272074f71a04f74d877b18966392b5
