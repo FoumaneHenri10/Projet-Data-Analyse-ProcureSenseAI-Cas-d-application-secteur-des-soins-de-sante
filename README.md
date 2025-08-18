@@ -10,7 +10,7 @@ Ce projet simule la conception d’un outil de pilotage intelligent, combinant P
 ## 🛤️ Workflow global du projet
 
 ### 1️⃣ Power BI – Exploration initiale & Reporting
-- Lecture et visualisation du fichier CSV (`procuresenseai_data_sanofi.csv`)
+- Lecture et visualisation du fichier CSV (`procuresenseai_data.csv`)
 - Construction de 4 pages de dashboard :
   - Vue d’ensemble : KPIs globaux du processus achat
   - Analyse par fournisseur : répartition des performances
